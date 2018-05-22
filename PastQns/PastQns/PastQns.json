@@ -1,0 +1,2620 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "91b6beb0-576b-11e8-9d0c-5ce0c5bacc04", 
+    "deck_config_uuid": "edd25bf0-1693-11e8-9adc-0050b6c6d7f0", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "edd25bf0-1693-11e8-9adc-0050b6c6d7f0", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 40, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-7-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-2-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-9-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-6-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-6-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-5-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-1-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-7-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-8-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-12-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-1-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-10-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-4-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-6-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-2-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-11-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-O.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-7-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-10-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-2-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-3-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-7-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-6-Q.svg", 
+        "e4e3e8a5d2c54cbe844eabed65e6d984-ao-1-Q.svg", 
+        "paste-3539053051907.jpg", 
+        "stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-3-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-7-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-9-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-6-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-5-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-1-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-10-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-4-Q.svg", 
+        "e4e3e8a5d2c54cbe844eabed65e6d984-ao-O.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-12-A.svg", 
+        "e4e3e8a5d2c54cbe844eabed65e6d984_tmpkgpmq8.png", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-12-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-3-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-2-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-10-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-3-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-3-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-11-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-7-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-5-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-9-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-4-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-6-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-5-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-5-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-9-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-8-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-8-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1-A.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-11-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-8-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-4-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-3-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-12-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-1-Q.svg", 
+        "085981af72b143f5922ad8a3ad0ba694-ao-11-A.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-4-Q.svg", 
+        "627e5df105064a4aa4c3db7b1f6c3fb2-ao-5-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-4-A.svg", 
+        "e4e3e8a5d2c54cbe844eabed65e6d984-ao-1-A.svg"
+    ], 
+    "mid": "1526461900154", 
+    "name": "PastQns", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE */\n\n.card .mobile, #content .mobile {\n  font-size: 100%;\n  margin: 0;\n}\n\n#io-extra-wrapper .mobile {\n  width: 95%;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ID (hidden)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Header", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Image", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Footer", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 1", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 2", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Question Mask", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Answer Mask", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original Mask", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Image Occlusion Enhanced-fa23d", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        2
+                    ]
+                ]
+            ], 
+            "sortf": 1, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "IO Card", 
+                    "ord": 0, 
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic-0f3be", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ID (hidden)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Header", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Image", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Question Mask", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Footer", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 1", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 2", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Answer Mask", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original Mask", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Image Occlusion Enhanced", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        2
+                    ]
+                ]
+            ], 
+            "sortf": 1, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "IO Card", 
+                    "ord": 0, 
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "5f874e54-5d06-11e8-8b3a-30e37ab3e4ac", 
+            "css": "/* general card style */\n\nhtml {\n  /* scrollbar always visible in order to prevent shift when revealing answer*/\n  overflow-y: scroll;\n}\n\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* general layout */\n\n.text {\n  /* center left-aligned text on card */\n  display: inline-block;\n  align: center;\n  text-align: left;\n  margin: auto;\n  max-width: 40em;\n}\n\n.hidden {\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height:0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}\n\n.title {\n  font-weight: bold;\n  font-size: 1.1em;\n  margin-bottom: 1em;\n  text-align: center;\n}\n\n/* clozes */\n\n.cloze {\n  /* regular cloze deletion */\n  font-weight: bold;\n  color: #0048FF;\n}\n\n/* original text reveal hint */\n\n.fullhint a {\n  color: #0048FF;\n}\n\n.card21 .fullhint{\n  /* no need to display hint on last card */\n  display:none;\n}\n\n/* additional fields */\n\n.extra{\n  margin-top: 0.5em;\n  margin: auto;\n  max-width: 40em;\n}\n\n.extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.extra-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Title", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Settings", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text1", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text2", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text3", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text4", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text5", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text6", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text7", 
+                    "ord": 11, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text8", 
+                    "ord": 12, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text9", 
+                    "ord": 13, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text10", 
+                    "ord": 14, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text11", 
+                    "ord": 15, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text12", 
+                    "ord": 16, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text13", 
+                    "ord": 17, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text14", 
+                    "ord": 18, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text15", 
+                    "ord": 19, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text16", 
+                    "ord": 20, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text17", 
+                    "ord": 21, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text18", 
+                    "ord": 22, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text19", 
+                    "ord": 23, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text20", 
+                    "ord": 24, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Full", 
+                    "ord": 25, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze (overlapping)", 
+            "sortf": 1, 
+            "tags": [
+                "Anatomy.", 
+                "Cardiac", 
+                "STEM,"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "<div class=\"back\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Full}}\n    <div class=\"hidden\">{{Original}}</div>\n  </div>\n  <div class=\"extra\"><hr></div>\n  <div class=\"text\"><div class=\"fullhint\">{{hint:Original}}</div></div>\n  <div class=\"extra\">\n    {{#Remarks}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Remarks</div><div>{{Remarks}}</div>\n    </div>\n    {{/Remarks}}\n    {{#Sources}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Sources</div><div>{{Sources}}</div>\n    </div>\n    {{/Sources}}\n  </div>\n</div>\n<script>\n  // remove cloze syntax from revealed hint\n  var hint = document.querySelector('.fullhint>[id^=\"hint\"]')\n  var html = hint.innerHTML.replace(/\\[\\[oc(\\d+)::(.*?)(::(.*?))?\\]\\]/mg, \"$2\")\n  hint.innerHTML = html\n  // scroll to cloze\n  document.addEventListener('DOMContentLoaded', function() {\n    setTimeout(function(){\n      const cloze1 = document.getElementsByClassName(\"cloze\")[0];\n      const rect = cloze1.getBoundingClientRect();\n      const absTop = rect.top + window.pageYOffset;\n      const absBot = rect.bottom + window.pageYOffset;\n      if (absBot >= window.innerHeight) {\n        const height = rect.top - rect.bottom\n        const middle = absTop - (window.innerHeight/2) - (height/2);\n        window.scrollTo(0, middle);};\n    }, 1);\n  }, false);\n</script>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "cloze-ol", 
+                    "ord": 0, 
+                    "qfmt": "<div class=\"front\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Full}}\n    <div class=\"hidden\">\n       <div>{{Original}}</div>\n    </div>\n  </div>\n</div>"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "css": "/* general card style */\n\nhtml {\n  /* scrollbar always visible in order to prevent shift when revealing answer*/\n  overflow-y: scroll;\n}\n\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* general layout */\n\n.text {\n  /* center left-aligned text on card */\n  display: inline-block;\n  align: center;\n  text-align: left;\n  margin: auto;\n  max-width: 40em;\n}\n\n.hidden {\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height:0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}\n\n.title {\n  font-weight: bold;\n  font-size: 1.1em;\n  margin-bottom: 1em;\n  text-align: center;\n}\n\n/* clozes */\n\n.cloze {\n  /* regular cloze deletion */\n  font-weight: bold;\n  color: #0048FF;\n}\n\n/* original text reveal hint */\n\n.fullhint a {\n  color: #0048FF;\n}\n\n.card21 .fullhint{\n  /* no need to display hint on last card */\n  display:none;\n}\n\n/* additional fields */\n\n.extra{\n  margin-top: 0.5em;\n  margin: auto;\n  max-width: 40em;\n}\n\n.extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.extra-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Title", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Settings", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text1", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text2", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text3", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text4", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text5", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text6", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text7", 
+                    "ord": 11, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text8", 
+                    "ord": 12, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text9", 
+                    "ord": 13, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text10", 
+                    "ord": 14, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text11", 
+                    "ord": 15, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text12", 
+                    "ord": 16, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text13", 
+                    "ord": 17, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text14", 
+                    "ord": 18, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text15", 
+                    "ord": 19, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text16", 
+                    "ord": 20, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text17", 
+                    "ord": 21, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text18", 
+                    "ord": 22, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text19", 
+                    "ord": 23, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text20", 
+                    "ord": 24, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Full", 
+                    "ord": 25, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze (overlapping)-fa23d", 
+            "sortf": 1, 
+            "tags": [
+                "Anatomy", 
+                "Cardiac,", 
+                "DDx,"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "<div class=\"back\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Full}}\n    <div class=\"hidden\">{{Original}}</div>\n  </div>\n  <div class=\"extra\"><hr></div>\n  <div class=\"text\"><div class=\"fullhint\">{{hint:Original}}</div></div>\n  <div class=\"extra\">\n    {{#Remarks}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Remarks</div><div>{{Remarks}}</div>\n    </div>\n    {{/Remarks}}\n    {{#Sources}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Sources</div><div>{{Sources}}</div>\n    </div>\n    {{/Sources}}\n  </div>\n</div>\n<script>\n  // remove cloze syntax from revealed hint\n  var hint = document.querySelector('.fullhint>[id^=\"hint\"]')\n  var html = hint.innerHTML.replace(/\\[\\[oc(\\d+)::(.*?)(::(.*?))?\\]\\]/mg, \"$2\")\n  hint.innerHTML = html\n  // scroll to cloze\n  document.addEventListener('DOMContentLoaded', function() {\n    setTimeout(function(){\n      const cloze1 = document.getElementsByClassName(\"cloze\")[0];\n      const rect = cloze1.getBoundingClientRect();\n      const absTop = rect.top + window.pageYOffset;\n      const absBot = rect.bottom + window.pageYOffset;\n      if (absBot >= window.innerHeight) {\n        const height = rect.top - rect.bottom\n        const middle = absTop - (window.innerHeight/2) - (height/2);\n        window.scrollTo(0, middle);};\n    }, 1);\n  }, false);\n</script>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "cloze-ol", 
+                    "ord": 0, 
+                    "qfmt": "<div class=\"front\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Full}}\n    <div class=\"hidden\">\n       <div>{{Original}}</div>\n    </div>\n  </div>\n</div>"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "test", 
+                "test"
+            ], 
+            "flags": 0, 
+            "guid": "ElR-DhubO_", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Test Brian", 
+                "Test Brian"
+            ], 
+            "flags": 0, 
+            "guid": "H+&!7eR,k}", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Seck&nbsp;", 
+                "Ball"
+            ], 
+            "flags": 0, 
+            "guid": "wn=MP5@Gk^", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Warfarin MOA&nbsp;", 
+                "Inhibition of Vit K epoxide reductase, affecting Factors (2,7,9,10) and Protein C&amp;S&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "oG~r|_N{WN", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-1", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-1-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "g9InwhiIx@", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-2", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-2-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "O|pk6(<,4>", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-3", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-3-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "b./cc1L~=y", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-4", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-4-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "n+8R]8PEIO", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-5", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-5-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-5-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "z=2)hK4DsQ", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-6", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-6-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-6-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "J>rkRgr1yT", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-7", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-7-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-7-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "nt({Bf=fkn", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-8", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-8-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-8-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "zE?WpNE:%b", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-9", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-9-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-9-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "K1Kuqj>cR:", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-10", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-10-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-10-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "w+n*p$cq3Q", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-11", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-11-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-11-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "kHzKfAqUDM", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "085981af72b143f5922ad8a3ad0ba694-ao-12", 
+                "", 
+                "<img src=\"stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-12-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-12-A.svg\" />", 
+                "<img src=\"085981af72b143f5922ad8a3ad0ba694-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "zYfK%Rx0?K", 
+            "note_model_uuid": "5f872740-5d06-11e8-8d49-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><div><b>All risk factors</b></div><div><b>Modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>Medical&nbsp;</li><ul><li>[[oc1::Hypertension]]&nbsp;</li><li>[[oc1::Diabetes&nbsp;]]</li><li>[[oc1::CKD&nbsp;]]</li><li>[[oc1::Dyslipidaemia&nbsp;]]</li></ul><li>Lifestyle</li><ul><li>[[oc2::Smoking]]&nbsp;</li><li>[[oc2::Sedentary Lifestyle&nbsp;]]</li><li>[[oc2::Dietary Choices]]</li><li>[[oc2::Obesity&nbsp;]]</li><li>[[oc2::Stress]]</li></ul></ul></div><div><b>Non-modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>[[oc3::Male]]</li><li>[[oc3::Post-menopausal woman]]</li><li>[[oc3::Age]]</li><li>[[oc3::Family History]]</li><li>[[oc3::Ethinicity]]</li><li>[[oc3::PMH]]</li></ul></div></div><div><br /></div><div><br /></div>", 
+                "&nbsp;55M, 2hr hx of central, retrosternal, crushing chest pain on exertion.<div><hr />What are his cardiac risk factors?&nbsp;</div><div><br /></div>", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "<div><div><b>All risk factors</b></div><div><b>Modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>Medical&nbsp;</li><ul><li>{{c1::Hypertension}}&nbsp;</li><li>{{c1::Diabetes&nbsp;}}</li><li>{{c1::CKD&nbsp;}}</li><li>{{c1::Dyslipidaemia&nbsp;}}</li></ul><li>Lifestyle</li><ul><li>...&nbsp;</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></ul></div><div><b>Non-modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div></div><div><br /></div><div><br /></div>", 
+                "<div><div><b>All risk factors</b></div><div><b>Modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>Medical&nbsp;</li><ul><li>...&nbsp;</li><li>...</li><li>...</li><li>...</li></ul><li>Lifestyle</li><ul><li>{{c2::Smoking}}&nbsp;</li><li>{{c2::Sedentary Lifestyle&nbsp;}}</li><li>{{c2::Dietary Choices}}</li><li>{{c2::Obesity&nbsp;}}</li><li>{{c2::Stress}}</li></ul></ul></div><div><b>Non-modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div></div><div><br /></div><div><br /></div>", 
+                "<div><div><b>All risk factors</b></div><div><b>Modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>Medical&nbsp;</li><ul><li>...&nbsp;</li><li>...</li><li>...</li><li>...</li></ul><li>Lifestyle</li><ul><li>...&nbsp;</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></ul></div><div><b>Non-modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>{{c3::Male}}</li><li>{{c3::Post-menopausal woman}}</li><li>{{c3::Age}}</li><li>{{c3::Family History}}</li><li>{{c3::Ethinicity}}</li><li>{{c3::PMH}}</li></ul></div></div><div><br /></div><div><br /></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<div><div><b>All risk factors</b></div><div><b>Modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>Medical&nbsp;</li><ul><li>{{c21::Hypertension}}&nbsp;</li><li>{{c21::Diabetes&nbsp;}}</li><li>{{c21::CKD&nbsp;}}</li><li>{{c21::Dyslipidaemia&nbsp;}}</li></ul><li>Lifestyle</li><ul><li>{{c21::Smoking}}&nbsp;</li><li>{{c21::Sedentary Lifestyle&nbsp;}}</li><li>{{c21::Dietary Choices}}</li><li>{{c21::Obesity&nbsp;}}</li><li>{{c21::Stress}}</li></ul></ul></div><div><b>Non-modifiable</b></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Male}}</li><li>{{c21::Post-menopausal woman}}</li><li>{{c21::Age}}</li><li>{{c21::Family History}}</li><li>{{c21::Ethinicity}}</li><li>{{c21::PMH}}</li></ul></div></div><div><br /></div><div><br /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "Q&x}RZ*i8g", 
+            "note_model_uuid": "5f874e54-5d06-11e8-8b3a-30e37ab3e4ac", 
+            "tags": [
+                "Anatomy.", 
+                "Cardiac", 
+                "STEM,"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "hello rena", 
+                "bye bye"
+            ], 
+            "flags": 0, 
+            "guid": "L*R1&<C@j_", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><b>PDx:</b>[[oc1::&nbsp;IBD, most probably Ulcerative Colitis]]<div><br /></div><div><b>DDx:</b></div><div><ul style=\"margin-left: 20px; \"><li><b>Other IBD</b>&nbsp;- [[oc2::Crohn's disease]]</li><li><b>Infectious</b>&nbsp;- [[oc3::Gastroenteritis (Camp., Shigella, C. Diff)]]</li><li><b>Malabsorptive</b>&nbsp;- [[oc4::Coeliac disease]]</li><li><b>Medications</b>&nbsp;- [[oc5::Pseudomembranous colitis, laxatives]]</li><li><b>Others, especially when older</b>&nbsp;- [[oc6::Ischaemic colitis, malignancy, diverticulitis, bleeding disorder]]</li></ul></div></div>", 
+                "<div style=\"font-weight: bold; \">State your PDx and DDx<br /><hr /></div><div>43yo F, presents with 2wk Hx of bloody diarrhoea, 12x in last 10hrs. Pain in L and R upper quadrants, previous episode 2yrs ago that resolved.</div>", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "<div><b>PDx:</b>{{c1::&nbsp;IBD, most probably Ulcerative Colitis}}<div><br /></div><div><b>DDx:</b></div><div><ul style=\"margin-left: 20px; \"><li><b>Other IBD</b>&nbsp;- ...</li><li><b>Infectious</b>&nbsp;- ...</li><li><b>Malabsorptive</b>&nbsp;- ...</li><li><b>Medications</b>&nbsp;- ...</li><li><b>Others, especially when older</b>&nbsp;- ...</li></ul></div></div>", 
+                "<div><b>PDx:</b>...<div><br /></div><div><b>DDx:</b></div><div><ul style=\"margin-left: 20px; \"><li><b>Other IBD</b>&nbsp;- {{c2::Crohn's disease}}</li><li><b>Infectious</b>&nbsp;- ...</li><li><b>Malabsorptive</b>&nbsp;- ...</li><li><b>Medications</b>&nbsp;- ...</li><li><b>Others, especially when older</b>&nbsp;- ...</li></ul></div></div>", 
+                "<div><b>PDx:</b>...<div><br /></div><div><b>DDx:</b></div><div><ul style=\"margin-left: 20px; \"><li><b>Other IBD</b>&nbsp;- ...</li><li><b>Infectious</b>&nbsp;- {{c3::Gastroenteritis (Camp., Shigella, C. Diff)}}</li><li><b>Malabsorptive</b>&nbsp;- ...</li><li><b>Medications</b>&nbsp;- ...</li><li><b>Others, especially when older</b>&nbsp;- ...</li></ul></div></div>", 
+                "<div><b>PDx:</b>...<div><br /></div><div><b>DDx:</b></div><div><ul style=\"margin-left: 20px; \"><li><b>Other IBD</b>&nbsp;- ...</li><li><b>Infectious</b>&nbsp;- ...</li><li><b>Malabsorptive</b>&nbsp;- {{c4::Coeliac disease}}</li><li><b>Medications</b>&nbsp;- ...</li><li><b>Others, especially when older</b>&nbsp;- ...</li></ul></div></div>", 
+                "<div><b>PDx:</b>...<div><br /></div><div><b>DDx:</b></div><div><ul style=\"margin-left: 20px; \"><li><b>Other IBD</b>&nbsp;- ...</li><li><b>Infectious</b>&nbsp;- ...</li><li><b>Malabsorptive</b>&nbsp;- ...</li><li><b>Medications</b>&nbsp;- {{c5::Pseudomembranous colitis, laxatives}}</li><li><b>Others, especially when older</b>&nbsp;- ...</li></ul></div></div>", 
+                "<div><b>PDx:</b>...<div><br /></div><div><b>DDx:</b></div><div><ul style=\"margin-left: 20px; \"><li><b>Other IBD</b>&nbsp;- ...</li><li><b>Infectious</b>&nbsp;- ...</li><li><b>Malabsorptive</b>&nbsp;- ...</li><li><b>Medications</b>&nbsp;- ...</li><li><b>Others, especially when older</b>&nbsp;- {{c6::Ischaemic colitis, malignancy, diverticulitis, bleeding disorder}}</li></ul></div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<div><b>PDx:</b>{{c21::&nbsp;IBD, most probably Ulcerative Colitis}}<div><br /></div><div><b>DDx:</b></div><div><ul style=\"margin-left: 20px; \"><li><b>Other IBD</b>&nbsp;- {{c21::Crohn's disease}}</li><li><b>Infectious</b>&nbsp;- {{c21::Gastroenteritis (Camp., Shigella, C. Diff)}}</li><li><b>Malabsorptive</b>&nbsp;- {{c21::Coeliac disease}}</li><li><b>Medications</b>&nbsp;- {{c21::Pseudomembranous colitis, laxatives}}</li><li><b>Others, especially when older</b>&nbsp;- {{c21::Ischaemic colitis, malignancy, diverticulitis, bleeding disorder}}</li></ul></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "dT-[>=:0~C", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "DDx", 
+                "STEM"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<b>History:&nbsp;</b><div><ul style=\"margin-left: 20px; \"><li>[[oc1::Characterise pain and diarrhoea.&nbsp;</li><li>Ask about extraintestinal IBD Sx (joints, eyes, skin)</li><li>Constitutional and infective Sx</li><li>PMHx, Meds, FHx, travel Hx</li><li>Smoking/drugs/ETOH</li>]]</ul><b>Examination:</b></div><div><ul style=\"margin-left: 20px; \"><li></li><li>[[oc5::</li><li>Clubbing</li><li>Anaemia (pallor, stomatitis, sinus tachy)</li><li>Abdominal palpation (tenderness, masses)</li><li>DRE – peri-anal disease (UC), mass, fissure, haemorrhoid, frank blood</li><li>Extra-intestinal examination (eyes – uveitis, joints – sacroillitis, skin – pyoderma gangrenosum, erythema nodosum</li>]]</ul></div><div><div><b>Bedside:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>[[oc2::Stool MCS, OPS (ova, parasites, spores)</li><li>C. Diff toxin test (TcdA/TcdB)</li>]]</ul><div><b>Bloods:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>[[oc3::FBC (Fe anaemia), ESR/CRP</li><li>LFT (liver issues, pri sclerosing cholangitis)</li><li>EUC/CMP (electrolyte disturbances, dehydration)</li><li>ANCA/ASCA (p-ANCA +ve in&nbsp;70%&nbsp;of&nbsp;UC)</li><li>Blood cultures (sepsis)</li>]]</ul><div><b>Imaging:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>[[oc4::Colonoscopy + biopsy (contraindicated with toxic megacolon)</li><li>AXR or CT Abdo (if suspect perforation or toxic megacolon - &gt;6cm diameter)</li><ul><li>UC - loss of haustra, granular mucosa, shortened colon</li><li>Crohn's - cobblestoning, \"rose thorn\" ulcers, colon strictures w/ rectal sparing</li></ul>]]</ul><div><b>Other:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>TFT (hyperthyroid = non-bloody diarrhoea)</li><li>Transglutaminase Ab test + Anti-endomysial Ab (IgA type) = Coeliac disease</li><li>FOBT&nbsp;</li><li>PCR (?virus)</li></ul></div>", 
+                "<div>What investigations would you perform?<br /><hr /></div><div>43yo F, presents with 2wk Hx of bloody diarrhoea, 12x in last 10hrs. Pain in L and R upper quadrants, previous episode 2yrs ago that resolved.</div>", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "<b>History:&nbsp;</b><div><ul style=\"margin-left: 20px; \"><li>{{c1::Characterise pain and diarrhoea.&nbsp;</li><li>Ask about extraintestinal IBD Sx (joints, eyes, skin)</li><li>Constitutional and infective Sx</li><li>PMHx, Meds, FHx, Smoking/drugs/ETOH</li><li>Examination</li>}}</ul><div><b>Bedside:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Bloods:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Imaging:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Other:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>TFT (hyperthyroid = non-bloody diarrhoea)</li><li>Transglutaminase Ab test + Anti-endomysial Ab (IgA type) = Coeliac disease</li><li>FOBT&nbsp;</li><li>PCR (?virus)</li></ul></div>", 
+                "<b>History:&nbsp;</b><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Bedside:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>{{c2::Stool MCS</li><li>C. Diff toxin (TcdA/TcdB)</li>}}</ul><div><b>Bloods:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Imaging:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Other:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>TFT (hyperthyroid = non-bloody diarrhoea)</li><li>Transglutaminase Ab test + Anti-endomysial Ab (IgA type) = Coeliac disease</li><li>FOBT&nbsp;</li><li>PCR (?virus)</li></ul></div>", 
+                "<b>History:&nbsp;</b><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Bedside:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Bloods:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>{{c3::FBC (Fe anaemia), ESR/CRP</li><li>LFT (liver issues, pri sclerosing cholangitis)</li><li>EUC/CMP (electrolyte disturbances, dehydration)</li><li>ANCA/ASCA (p-ANCA +ve in UC)</li><li>Blood cultures (sepsis)</li>}}</ul><div><b>Imaging:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Other:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>TFT (hyperthyroid = non-bloody diarrhoea)</li><li>Transglutaminase Ab test + Anti-endomysial Ab (IgA type) = Coeliac disease</li><li>FOBT&nbsp;</li><li>PCR (?virus)</li></ul></div>", 
+                "<b>History:&nbsp;</b><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Bedside:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Bloods:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div><b>Imaging:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>{{c4::Colonoscopy + biopsy (contraindicated with toxic megacolon)</li><li>AXR or CT Abdo (if suspect perforation or toxic megacolon - &gt;6cm diameter)</li>}}</ul><div><b>Other:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>TFT (hyperthyroid = non-bloody diarrhoea)</li><li>Transglutaminase Ab test + Anti-endomysial Ab (IgA type) = Coeliac disease</li><li>FOBT&nbsp;</li><li>PCR (?virus)</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<b>History:&nbsp;</b><div><ul style=\"margin-left: 20px; \"><li>{{c21::Characterise pain and diarrhoea.&nbsp;</li><li>Ask about extraintestinal IBD Sx (joints, eyes, skin)</li><li>Constitutional and infective Sx</li><li>PMHx, Meds, FHx, Smoking/drugs/ETOH</li><li>Examination</li>}}</ul><div><b>Bedside:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Stool MCS</li><li>C. Diff toxin (TcdA/TcdB)</li>}}</ul><div><b>Bloods:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::FBC (Fe anaemia), ESR/CRP</li><li>LFT (liver issues, pri sclerosing cholangitis)</li><li>EUC/CMP (electrolyte disturbances, dehydration)</li><li>ANCA/ASCA (p-ANCA +ve in UC)</li><li>Blood cultures (sepsis)</li>}}</ul><div><b>Imaging:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Colonoscopy + biopsy (contraindicated with toxic megacolon)</li><li>AXR or CT Abdo (if suspect perforation or toxic megacolon - &gt;6cm diameter)</li>}}</ul><div><b>Other:</b></div></div><div><ul style=\"margin-left: 20px; \"><li>TFT (hyperthyroid = non-bloody diarrhoea)</li><li>Transglutaminase Ab test + Anti-endomysial Ab (IgA type) = Coeliac disease</li><li>FOBT&nbsp;</li><li>PCR (?virus)</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "K/)3?(U#%G", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Ix", 
+                "STEM"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-1", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-1-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-1-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "IQQS]k3(t5", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-2", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-2-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-2-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "nFp*6?Pr{]", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-3", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-3-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-3-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "QL#z75H9Cp", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-4", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-4-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-4-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "le.^S]+9G8", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-5", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-5-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-5-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "v*j&P~=~l#", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-6", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-6-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-6-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "lo@3IDBn*u", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-7", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-7-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-7-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "dMvYVPdclY", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-8", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-8-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-8-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "mvg*_!]Z7w", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-9", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-9-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-9-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "l65]h*cFQ7", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-10", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-10-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-10-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "HLC|spce}x", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-11", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-11-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-11-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "hsnM%km&(>", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "627e5df105064a4aa4c3db7b1f6c3fb2-ao-12", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-12-Q.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-12-A.svg\" />", 
+                "<img src=\"627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "eQ`++gXnrf", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "e4e3e8a5d2c54cbe844eabed65e6d984-ao-1", 
+                "Crohn's disease VS Ulcerative Colitis", 
+                "<img src=\"e4e3e8a5d2c54cbe844eabed65e6d984_tmpkgpmq8.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"e4e3e8a5d2c54cbe844eabed65e6d984-ao-1-Q.svg\" />", 
+                "<img src=\"e4e3e8a5d2c54cbe844eabed65e6d984-ao-1-A.svg\" />", 
+                "<img src=\"e4e3e8a5d2c54cbe844eabed65e6d984-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "I[dA-vGo|?", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the categories of complications of UC?", 
+                "Intestinal (acute,&nbsp;chronic)<div><br /><div><div>Extra-intestinal (eyes, skin, joints, haem, hepatobill, bones, dehydration, nails)</div></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "y$jC]e|N4M", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the acute complications of UC?", 
+                "<ul style=\"margin-left: 20px; \"><li style=\"text-align: left;\">Perforation +/- peritonitis</li><li style=\"text-align: left;\">Bleeding (from erosion of an artery, rare, but life threatening)</li><li style=\"text-align: left;\">Toxic megacolon +/- rupture</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "O2mE=Zi<OS", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the chronic complications of UC?", 
+                "<ul style=\"margin-left: 20px; \"><li>Colonic adenocarcinoma (CRC)</li><li>Perianal abscess</li><li>Fistula (more likely with Crohn's due to transmural inflammation)</li><li>Strictures</li><li>amyloidosis</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "kirx*2cT$?", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Symptomatic relief:&nbsp;</div><div><div><ul style=\"margin-left: 20px; \"><li>[[oc1::Antidiarrheal agents: loperamide</li><li>Anticholinergic medication: propantheline, dicyclomine</li>]]</ul><div>Acute:&nbsp;[[oc2::using 5-aminosalicylic acid derivatives (5-ASAs)&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><div>rectal → +oral → +oral corticosteroids → alternatives and biologicals</div></div></blockquote></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><div>]]&nbsp;</div></div></blockquote><br /><div>Maintainence: [[oc3::Oral/rectal 5-ASA&nbsp;→ both&nbsp;→ alternatives]]</div></div>", 
+                "General features of treatment of Ulcerative Colitis", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "<div>Symptomatic relief:&nbsp;</div><div><div><ul style=\"margin-left: 20px; \"><li>{{c1::Antidiarrheal agents: loperamide</li><li>Anticholinergic medication: propantheline, dicyclomine</li>}}</ul><div>Acute:&nbsp;...&nbsp;</div></div></blockquote><br /><div>Maintainence: ...</div></div>", 
+                "<div>Symptomatic relief:&nbsp;</div><div><div><ul style=\"margin-left: 20px; \"><li>Antidiarrheal agents: loperamide</li><li>Anticholinergic medication: propantheline, dicyclomine</li></ul><div>Acute:&nbsp;{{c2::using 5-aminosalicylic acid derivatives (5-ASAs)&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><div>rectal → +oral → +oral corticosteroids → alternatives and biologicals</div></div></blockquote></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><div>}}&nbsp;</div></div></blockquote><br /><div>Maintainence: ...</div></div>", 
+                "<div>Symptomatic relief:&nbsp;</div><div><div><ul style=\"margin-left: 20px; \"><li>...</ul><div>Acute:&nbsp;using 5-aminosalicylic acid derivatives (5-ASAs)&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><div>rectal → +oral → +oral corticosteroids → alternatives and biologicals</div></div></blockquote></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><div>&nbsp;</div></div></blockquote><br /><div>Maintainence: {{c3::Oral/rectal 5-ASA&nbsp;→ both&nbsp;→ alternatives}}</div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<div>Symptomatic relief:&nbsp;</div><div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Antidiarrheal agents: loperamide</li><li>Anticholinergic medication: propantheline, dicyclomine</li>}}</ul><div>Acute:&nbsp;{{c21::using 5-aminosalicylic acid derivatives (5-ASAs)&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><div>rectal → +oral → +oral corticosteroids → alternatives and biologicals</div></div></blockquote></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><div>}}&nbsp;</div></div></blockquote><br /><div>Maintainence: {{c21::Oral/rectal 5-ASA&nbsp;→ both&nbsp;→ alternatives}}</div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "n?83m1ZGk`", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "5-ASAs ([[oc1::5-Animosalicylic acid derivatives]]):<div><ul style=\"margin-left: 20px; \"><li>[[oc2::Mesalamine]]</li><li>[[oc2::Sulfasalazine]]</li><li>[[oc2::Olsalazine]]</li></ul><b>Mild:</b> [[oc3::5-ASA as suppository or enema, topical steroid (budesonide) if not tolerated]]</div><div><br /></div><div><b>Moderate:</b> [[oc4::Oral + topical 5-ASAs, can use in combination with topical budesonide]]</div><div><br /></div><div><b>Severe:</b>&nbsp;[[oc5::High dose oral + topical 5-ASA and Oral corticosteroids.</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>if insufficient: IV corticosteroids]]</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><b>Steroid-refractory Disease:</b>&nbsp;<div><ul style=\"margin-left: 20px; \"><li>[[oc6::<div><ul style=\"margin-left: 20px; \"><li>Cyclosporine, azathioprine</li><li>Surgery (curative! proctocolectomy)</li></ul></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Alternatives:&nbsp;infliximab, tacrolimus</div></blockquote>]]</li></ul></div>", 
+                "Treatment of acute Ulcerative Colitis", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "5-ASAs ({{c1::5-Animosalicylic acid derivatives}}):<div><ul style=\"margin-left: 20px; \"><li></li><li>...</li><li>...</li><li>...</li></ul><b>Mild:</b> ...</div><div><br /></div><div><b>Moderate:</b> ...</div><div><br /></div><div><b>Severe:</b>&nbsp;...</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><b>Steroid-refractory Disease:</b>&nbsp;<div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div>", 
+                "5-ASAs (...):<div><ul style=\"margin-left: 20px; \"><li></li><li>{{c2::Mesalamine}}</li><li>{{c2::Sulfasalazine}}</li><li>{{c2::Olsalazine}}</li></ul><b>Mild:</b> ...</div><div><br /></div><div><b>Moderate:</b> ...</div><div><br /></div><div><b>Severe:</b>&nbsp;...</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><b>Steroid-refractory Disease:</b>&nbsp;<div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div>", 
+                "5-ASAs (...):<div><ul style=\"margin-left: 20px; \"><li></li><li>...</li><li>...</li><li>...</li></ul><b>Mild:</b> {{c3::5-ASA as suppository or enema, topical steroid (budesonide) if not tolerated}}</div><div><br /></div><div><b>Moderate:</b> ...</div><div><br /></div><div><b>Severe:</b>&nbsp;...</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><b>Steroid-refractory Disease:</b>&nbsp;<div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div>", 
+                "5-ASAs (...):<div><ul style=\"margin-left: 20px; \"><li></li><li>...</li><li>...</li><li>...</li></ul><b>Mild:</b> ...</div><div><br /></div><div><b>Moderate:</b> {{c4::Oral + topical 5-ASAs, can use in combination with topical budesonide}}</div><div><br /></div><div><b>Severe:</b>&nbsp;...</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><b>Steroid-refractory Disease:</b>&nbsp;<div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div>", 
+                "5-ASAs (...):<div><ul style=\"margin-left: 20px; \"><li></li><li>...</li><li>...</li><li>...</li></ul><b>Mild:</b> ...</div><div><br /></div><div><b>Moderate:</b> ...</div><div><br /></div><div><b>Severe:</b>&nbsp;{{c5::High dose oral + topical 5-ASA and Oral corticosteroids.</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>if insufficient: IV corticosteroids}}</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><b>Steroid-refractory Disease:</b>&nbsp;<div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div>", 
+                "5-ASAs (...):<div><ul style=\"margin-left: 20px; \"><li></li><li>...</li><li>...</li><li>...</li></ul><b>Mild:</b> ...</div><div><br /></div><div><b>Moderate:</b> ...</div><div><br /></div><div><b>Severe:</b>&nbsp;...</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><b>Steroid-refractory Disease:</b>&nbsp;<div><ul style=\"margin-left: 20px; \"><li>{{c6::<div><ul style=\"margin-left: 20px; \"><li>Cyclosporine</li><li>Surgery</li></ul></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Alternatives: infliximab, tacrolimus, azathioprine</div></blockquote>}}</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "5-ASAs ({{c21::5-Animosalicylic acid derivatives}}):<div><ul style=\"margin-left: 20px; \"><li></li><li>{{c21::Mesalamine}}</li><li>{{c21::Sulfasalazine}}</li><li>{{c21::Olsalazine}}</li></ul><b>Mild:</b> {{c21::5-ASA as suppository or enema, topical steroid (budesonide) if not tolerated}}</div><div><br /></div><div><b>Moderate:</b> {{c21::Oral + topical 5-ASAs, can use in combination with topical budesonide}}</div><div><br /></div><div><b>Severe:</b>&nbsp;{{c21::High dose oral + topical 5-ASA and Oral corticosteroids.</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>if insufficient: IV corticosteroids}}</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><b>Steroid-refractory Disease:</b>&nbsp;<div><ul style=\"margin-left: 20px; \"><li>{{c21::<div><ul style=\"margin-left: 20px; \"><li>Cyclosporine</li><li>Surgery</li></ul></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Alternatives: infliximab, tacrolimus, azathioprine</div></blockquote>}}</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "i7DP|TD%iE", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "1st line (dec. risk of colon cancer)<div><ul style=\"margin-left: 20px; \"><li>[[oc1::mild: oral/rectal 5-ASA]]</li><li>[[oc1::mod-severe: oral + rectal 5-ASA]]</li><li>[[oc1::5-ASA intolerance: probiotics (E Coli strain Nissle 1917)]]</li></ul><div>Alternatives:</div></div><div><ul style=\"margin-left: 20px; \"><li>[[oc2::Azathioprine/6-mercaptopurine]]</li><li>[[oc2::Infliximab]]&nbsp;</li></ul><div>Surgery:[[oc3::</div><div><div></div></div><div><ul style=\"margin-left: 20px; \"><li>curative, reduces risk of colon cancer</li><li>indicated if acute complications, severe relapses, long term dependance on steroids</li><li>Proctocolectomy</li><li>can be cured surgically, unlike Crohn's&nbsp;</li></ul></div>]]</div>", 
+                "Long-Term Therapy for Ulcerative Colitis", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "1st line (dec. risk of colon cancer)<div><ul style=\"margin-left: 20px; \"><li>{{c1::mild: oral/rectal 5-ASA}}</li><li>{{c1::mod-severe: oral + rectal 5-ASA}}</li><li>{{c1::5-ASA intolerance: probiotics (E Coli strain Nissle 1917)}}</li></ul><div>Alternatives:</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...&nbsp;</li></ul><div>Surgery:...</div></div>", 
+                "1st line (dec. risk of colon cancer)<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li></ul><div>Alternatives:</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c2::Azathioprine or 6-mercaptopurine}}</li><li>{{c2::Infliximab}}&nbsp;</li></ul><div>Surgery:...</div>", 
+                "1st line (dec. risk of colon cancer)<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li></ul><div>Alternatives:</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...&nbsp;</li></ul><div>Surgery:{{c3::</div><div><div></div></div><div><ul style=\"margin-left: 20px; \"><li>curative, reduces risk of colon cancer</li><li>indicated if acute complications, severe relapses, long term dependance on steroids</li><li>Proctocolectomy</li><li>can be cured surgically, unlike Crohn's&nbsp;</li></ul></div>}}</div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "1st line (dec. risk of colon cancer)<div><ul style=\"margin-left: 20px; \"><li>{{c21::mild: oral/rectal 5-ASA}}</li><li>{{c21::mod-severe: oral + rectal 5-ASA}}</li><li>{{c21::5-ASA intolerance: probiotics (E Coli strain Nissle 1917)}}</li></ul><div>Alternatives:</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Azathioprine or 6-mercaptopurine}}</li><li>{{c21::Infliximab}}&nbsp;</li></ul><div>Surgery:{{c21::</div><div><div></div></div><div><ul style=\"margin-left: 20px; \"><li>curative, reduces risk of colon cancer</li><li>indicated if acute complications, severe relapses, long term dependance on steroids</li><li>Proctocolectomy</li><li>can be cured surgically, unlike Crohn's&nbsp;</li></ul></div>}}</div>"
+            ], 
+            "flags": 0, 
+            "guid": "GGT(4p9@fg", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>[[oc1::nicotine]] abstinence</li><li>lactose intolerance - [[oc2::lactose-free diet]]</li><li>appropriate [[oc3::nutrion]] supplementation</li><li>bile acid diarrhoea - [[oc4::give ion-exchange resins to bind bile acids (eg. cholestyramine) to reduce osmotic diarhhoea (risk of steatorrhoea)]]</li><li>During acute episodes: [[oc5::avoid dietary fibre, consider parenteral nutrition]]</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>[[oc6::step up or step down therapy (weak to strong, or strong to weak meds)]]</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>[[oc7::</li><li>if medical therapy fails, or complications (obstruction, fistula, stricture)</li><li>non-curative, last resort</li><li>resection of affected bowel</li>]]</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>[[oc8::</li><li>regular check ups</li><li>Smoking cessation</li><li>prophylactic Abx, 5-ASAs, etc</li>]]</ul></div>", 
+                "General Structure of treatment of Crohn's disease", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>{{c1::nicotine}} abstinence</li><li>lactose intolerance - ...</li><li>appropriate ... supplementation</li><li>bile acid diarrhoea - ...</li><li>During acute episodes: ...</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div>", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>... abstinence</li><li>lactose intolerance - {{c2::lactose-free diet}}</li><li>appropriate ... supplementation</li><li>bile acid diarrhoea - ...</li><li>During acute episodes: ...</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div>", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>... abstinence</li><li>lactose intolerance - ...</li><li>appropriate {{c3::nutrion}} supplementation</li><li>bile acid diarrhoea - ...</li><li>During acute episodes: ...</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div>", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>... abstinence</li><li>lactose intolerance - ...</li><li>appropriate ... supplementation</li><li>bile acid diarrhoea - {{c4::give ion-exchange resins to bind bile acids (eg. cholestyramine) to reduce osmotic diarhhoea (risk of steatorrhoea)}}</li><li>During acute episodes: ...</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div>", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>... abstinence</li><li>lactose intolerance - ...</li><li>appropriate ... supplementation</li><li>bile acid diarrhoea - ...</li><li>During acute episodes: {{c5::avoid dietary fibre, consider parenteral nutrition}}</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div>", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>... abstinence</li><li>lactose intolerance - ...</li><li>appropriate ... supplementation</li><li>bile acid diarrhoea - ...</li><li>During acute episodes: ...</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>{{c6::step up or step down therapy (weak to strong, or strong to weak meds)}}</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div>", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>... abstinence</li><li>lactose intolerance - ...</li><li>appropriate ... supplementation</li><li>bile acid diarrhoea - ...</li><li>During acute episodes: ...</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c7::</li><li>if medical therapy fails, or complications (obstruction, fistula, stricture)</li><li>non-curative, last resort</li><li>resection of affected bowel</li>}}</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div>", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>... abstinence</li><li>lactose intolerance - ...</li><li>appropriate ... supplementation</li><li>bile acid diarrhoea - ...</li><li>During acute episodes: ...</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>...</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>...</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>{{c8::</li><li>regular check ups</li><li>Smoking cessation</li><li>prophylactic Abx, 5-ASAs, etc</li>}}</ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<div><div>General</div><div><ul style=\"margin-left: 20px; \"><li>{{c21::nicotine}} abstinence</li><li>lactose intolerance - {{c21::lactose-free diet}}</li><li>appropriate {{c21::nutrion}} supplementation</li><li>bile acid diarrhoea - {{c21::give ion-exchange resins to bind bile acids (eg. cholestyramine) to reduce osmotic diarhhoea (risk of steatorrhoea)}}</li><li>During acute episodes: {{c21::avoid dietary fibre, consider parenteral nutrition}}</li></ul></div><div><br /></div><div>Pharmacotherapy</div><div><ul style=\"margin-left: 20px; \"><li>{{c21::step up or step down therapy (weak to strong, or strong to weak meds)}}</li></ul></div><div>Surgery</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::</li><li>if medical therapy fails, or complications (obstruction, fistula, stricture)</li><li>non-curative, last resort</li><li>resection of affected bowel</li>}}</ul></div><div>Prevention</div><div><ul style=\"margin-left: 20px; \"><li>{{c21::</li><li>regular check ups</li><li>Smoking cessation</li><li>prophylactic Abx, 5-ASAs, etc</li>}}</ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "Alf$SpK!5}", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1-Q.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1-A.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "ul6NbW.uGQ", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2-Q.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2-A.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Phc/cFs$v7", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-3", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-3-Q.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-3-A.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "z(`Kgi185I", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-4", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-4-Q.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-4-A.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "ihXN1x(2HV", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-5", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-5-Q.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-5-A.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "qp6$B^v;!N", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-6", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-6-Q.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-6-A.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "JY;Za)2.g]", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-7", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-7-Q.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-7-A.svg\" />", 
+                "<img src=\"3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "O(ySKRrAVt", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Management", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><ol type=\"1\" start=\"1\"><li>[[oc1::Enters cell, binds to cytoplasmic glucocorticoid receptors]]</li><li>[[oc2::Receptor complex enters nucleus → gene transcription]]</li><li>[[oc3::↑ Annexin-1 protein]]</li><li>[[oc4::↓ Phospholipase A2]]</li><li>[[oc5::↓ COX, lipoxygenase]]</li><li>[[oc6::↓&nbsp;<b>PG</b>&nbsp;(D<sub>2</sub>,&nbsp;E<sub>2</sub>,<sub>&nbsp;</sub>F<sub>2</sub>, I<sub>2</sub>,),&nbsp;<b>LT</b>&nbsp;(B4,&nbsp;C4,&nbsp;D4,&nbsp;E4),&nbsp;<b>PAF </b>(from phospholipase A2)]]</li></ol></div>", 
+                "What is the MOA of prednisone? (glucocorticoid)", 
+                "", 
+                "", 
+                "5,1,0 | n,n,n,n", 
+                "<div><ol type=\"1\" start=\"1\"><li>{{c1::Enters cell, binds to cytoplasmic glucocorticoid receptors}}</li><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ol></div>", 
+                "<div><ol type=\"1\" start=\"1\"><li>Enters cell, binds to cytoplasmic glucocorticoid receptors</li><li>{{c2::Receptor complex enters nucleus → gene transcription}}</li><li>...</li><li>...</li><li>...</li><li>...</li></ol></div>", 
+                "<div><ol type=\"1\" start=\"1\"><li>Enters cell, binds to cytoplasmic glucocorticoid receptors</li><li>Receptor complex enters nucleus → gene transcription</li><li>{{c3::↑ Annexin-1 protein}}</li><li>...</li><li>...</li><li>...</li></ol></div>", 
+                "<div><ol type=\"1\" start=\"1\"><li>Enters cell, binds to cytoplasmic glucocorticoid receptors</li><li>Receptor complex enters nucleus → gene transcription</li><li>↑ Annexin-1 protein</li><li>{{c4::↓ Phospholipase A2}}</li><li>...</li><li>...</li></ol></div>", 
+                "<div><ol type=\"1\" start=\"1\"><li>Enters cell, binds to cytoplasmic glucocorticoid receptors</li><li>Receptor complex enters nucleus → gene transcription</li><li>↑ Annexin-1 protein</li><li>↓ Phospholipase A2</li><li>{{c5::↓ COX, lipoxygenase}}</li><li>...</li></ol></div>", 
+                "<div><ol type=\"1\" start=\"1\"><li>Enters cell, binds to cytoplasmic glucocorticoid receptors</li><li>Receptor complex enters nucleus → gene transcription</li><li>↑ Annexin-1 protein</li><li>↓ Phospholipase A2</li><li>↓ COX, lipoxygenase</li><li>{{c6::↓&nbsp;<b>PG</b>&nbsp;(D<sub>2</sub>,&nbsp;E<sub>2</sub>,<sub>&nbsp;</sub>F<sub>2</sub>, I<sub>2</sub>,),&nbsp;<b>LT</b>&nbsp;(B4,&nbsp;C4,&nbsp;D4,&nbsp;E4),&nbsp;<b>PAF </b>(from phospholipase A2)}}</li></ol></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<div><ol type=\"1\" start=\"1\"><li>{{c21::Enters cell, binds to cytoplasmic glucocorticoid receptors}}</li><li>{{c21::Receptor complex enters nucleus → gene transcription}}</li><li>{{c21::↑ Annexin-1 protein}}</li><li>{{c21::↓ Phospholipase A2}}</li><li>{{c21::↓ COX, lipoxygenase}}</li><li>{{c21::↓&nbsp;<b>PG</b>&nbsp;(D<sub>2</sub>,&nbsp;E<sub>2</sub>,<sub>&nbsp;</sub>F<sub>2</sub>, I<sub>2</sub>,),&nbsp;<b>LT</b>&nbsp;(B4,&nbsp;C4,&nbsp;D4,&nbsp;E4),&nbsp;<b>PAF </b>(from phospholipase A2)}}</li></ol></div>"
+            ], 
+            "flags": 0, 
+            "guid": "pG*|Vm?|NH", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cells (immunosuppression):<div><ul style=\"margin-left: 20px; \"><li>[[oc1::↓ neutrophil egress]]</li><li>[[oc1::↓ IL (most importantly, IL-2 --&nbsp;↓ T helper cell function)]]</li></ul><div>Mediators (anti-inflammatory):</div></div><div><ul style=\"margin-left: 20px; \"><li>[[oc2::↓ COX --&nbsp;↓ PG]]</li><li>[[oc2::↓ IL, TNF]]</li></ul></div>", 
+                "What is the effect of Prednisone (glucocorticoid) on cells and mediators?", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "Cells (immunosuppression):<div><ul style=\"margin-left: 20px; \"><li>{{c1::↓ neutrophil egress}}</li><li>{{c1::↓ IL (most importantly, IL-2 --&nbsp;↓ T helper cell function)}}</li></ul><div>Mediators (anti-inflammatory):</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li></ul></div>", 
+                "Cells (immunosuppression):<div><ul style=\"margin-left: 20px; \"><li>↓ neutrophil egress</li><li>↓ IL (most importantly, IL-2 --&nbsp;↓ T helper cell function)</li></ul><div>Mediators (anti-inflammatory):</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c2::↓ COX --&nbsp;↓ PG}}</li><li>{{c2::↓ IL, TNF}}</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Cells (immunosuppression):<div><ul style=\"margin-left: 20px; \"><li>{{c21::↓ neutrophil egress}}</li><li>{{c21::↓ IL (most importantly, IL-2 --&nbsp;↓ T helper cell function)}}</li></ul><div>Mediators (anti-inflammatory):</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::↓ COX --&nbsp;↓ PG}}</li><li>{{c21::↓ IL, TNF}}</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "Ku`Yi_$N5z", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><b>Acute:</b>&nbsp;[[oc1::immunosuppression, Addisonian/adrenal crisis (withdrawal if not weaned)]]<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;[[oc2::steroid psychosis, anxiety, depression, sleep disturbance]]</li><li><b>Eyes:</b>&nbsp;[[oc3::cataracts, retinopathy, glaucoma]]</li><li><b>Cardio:&nbsp;</b>[[oc4::fluid retention, HTN]]</li><li><b>Endocrine:&nbsp;</b>[[oc5::Cushing's syndrome, hyperglycaemia, insulin resistance/DM, erectile dysfunction, hypogonadism, amenorrhoea, adrenal suppression, thinning skin/easy bruising]]</li><li><b>Skeletal:&nbsp;</b>[[oc6::osteoporosis, muscle wasting/myopathy, avascular necrosis of femoral/humeral head]]</li><li><b>Immune:</b>&nbsp;[[oc7::candidiasis + other opportunistic infections, delated wound healing]]</li></ul></div></div>", 
+                "What are the side effects of prednisone? (glucocorticoids)", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "<div><b>Acute:</b>&nbsp;{{c1::immunosuppression, Addisonian/adrenal crisis (withdrawal if not weaned)}}<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;...</li><li><b>Eyes:</b>&nbsp;...</li><li><b>Cardio:&nbsp;</b>...</li><li><b>Endocrine:&nbsp;</b>...</li><li><b>Skeletal:&nbsp;</b>...</li><li><b>Immune:</b>&nbsp;...</li></ul></div></div>", 
+                "<div><b>Acute:</b>&nbsp;immunosuppression, Addisonian/adrenal crisis (withdrawal if not weaned)<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;{{c2::steroid psychosis, anxiety, depression, sleep disturbance}}</li><li><b>Eyes:</b>&nbsp;...</li><li><b>Cardio:&nbsp;</b>...</li><li><b>Endocrine:&nbsp;</b>...</li><li><b>Skeletal:&nbsp;</b>...</li><li><b>Immune:</b>&nbsp;...</li></ul></div></div>", 
+                "<div><b>Acute:</b>&nbsp;...<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;steroid psychosis, anxiety, depression, sleep disturbance</li><li><b>Eyes:</b>&nbsp;{{c3::cataracts, retinopathy, glaucoma}}</li><li><b>Cardio:&nbsp;</b>...</li><li><b>Endocrine:&nbsp;</b>...</li><li><b>Skeletal:&nbsp;</b>...</li><li><b>Immune:</b>&nbsp;...</li></ul></div></div>", 
+                "<div><b>Acute:</b>&nbsp;...<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;...</li><li><b>Eyes:</b>&nbsp;cataracts, retinopathy, glaucoma</li><li><b>Cardio:&nbsp;</b>{{c4::fluid retention, HTN}}</li><li><b>Endocrine:&nbsp;</b>...</li><li><b>Skeletal:&nbsp;</b>...</li><li><b>Immune:</b>&nbsp;...</li></ul></div></div>", 
+                "<div><b>Acute:</b>&nbsp;...<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;...</li><li><b>Eyes:</b>&nbsp;...</li><li><b>Cardio:&nbsp;</b>fluid retention, HTN</li><li><b>Endocrine:&nbsp;</b>{{c5::Cushing's syndrome, hyperglycaemia, insulin resistance/DM, erectile dysfunction, hypogonadism, amenorrhoea, adrenal suppression, thinning skin/easy bruising}}</li><li><b>Skeletal:&nbsp;</b>...</li><li><b>Immune:</b>&nbsp;...</li></ul></div></div>", 
+                "<div><b>Acute:</b>&nbsp;...<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;...</li><li><b>Eyes:</b>&nbsp;...</li><li><b>Cardio:&nbsp;</b>...</li><li><b>Endocrine:&nbsp;</b>Cushing's syndrome, hyperglycaemia, insulin resistance/DM, erectile dysfunction, hypogonadism, amenorrhoea, adrenal suppression, thinning skin/easy bruising</li><li><b>Skeletal:&nbsp;</b>{{c6::osteoporosis, muscle wasting/myopathy, avascular necrosis of femoral/humeral head}}</li><li><b>Immune:</b>&nbsp;...</li></ul></div></div>", 
+                "<div><b>Acute:</b>&nbsp;...<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;...</li><li><b>Eyes:</b>&nbsp;...</li><li><b>Cardio:&nbsp;</b>...</li><li><b>Endocrine:&nbsp;</b>...</li><li><b>Skeletal:&nbsp;</b>osteoporosis, muscle wasting/myopathy, avascular necrosis of femoral/humeral head</li><li><b>Immune:</b>&nbsp;{{c7::candidiasis + other opportunistic infections, delated wound healing}}</li></ul></div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<div><b>Acute:</b>&nbsp;{{c21::immunosuppression, Addisonian/adrenal crisis (withdrawal if not weaned)}}<div><div><br /></div><div><b>Chronic:&nbsp;</b></div></div><div><ul style=\"margin-left: 20px; \"><li><b>Neuropsych:</b>&nbsp;{{c21::steroid psychosis, anxiety, depression, sleep disturbance}}</li><li><b>Eyes:</b>&nbsp;{{c21::cataracts, retinopathy, glaucoma}}</li><li><b>Cardio:&nbsp;</b>{{c21::fluid retention, HTN}}</li><li><b>Endocrine:&nbsp;</b>{{c21::Cushing's syndrome, hyperglycaemia, insulin resistance/DM, erectile dysfunction, hypogonadism, amenorrhoea, adrenal suppression, thinning skin/easy bruising}}</li><li><b>Skeletal:&nbsp;</b>{{c21::osteoporosis, muscle wasting/myopathy, avascular necrosis of femoral/humeral head}}</li><li><b>Immune:</b>&nbsp;{{c21::candidiasis + other opportunistic infections, delated wound healing}}</li></ul></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "r@<8h!)UCD", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<ol type=\"1\" start=\"1\"><li>[[oc1::Scavenges free radicals, inhibits PGs and LTs&nbsp;→&nbsp;↓Chemotaxis]]</li><li>[[oc2::Toxic to lymphocytes -- ↓ T cell-mediated inflammation]]</li><li>[[oc3::Poorly absorbed -- inflammatory action localised to bowel wall]]</li></ol>", 
+                "What is the MOA of Sulfalazine? (5-ASA)", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "<ol type=\"1\" start=\"1\"><li>{{c1::Scavenges free radicals, inhibits PGs and LTs&nbsp;→&nbsp;↓Chemotaxis}}</li><li>...</li><li>...</li></ol>", 
+                "<ol type=\"1\" start=\"1\"><li>Scavenges free radicals, inhibits PGs and LTs&nbsp;→&nbsp;↓Chemotaxis</li><li>{{c2::Toxic to lymphocytes -- ↓ T cell-mediated inflammation}}</li><li>...</li></ol>", 
+                "<ol type=\"1\" start=\"1\"><li>...</li><li>Toxic to lymphocytes -- ↓ T cell-mediated inflammation</li><li>{{c3::Poorly absorbed -- inflammatory action localised to bowel wall}}</li></ol>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<ol type=\"1\" start=\"1\"><li>{{c21::Scavenges free radicals, inhibits PGs and LTs&nbsp;→&nbsp;↓Chemotaxis}}</li><li>{{c21::Toxic to lymphocytes -- ↓ T cell-mediated inflammation}}</li><li>{{c21::Poorly absorbed -- inflammatory action localised to bowel wall}}</li></ol>"
+            ], 
+            "flags": 0, 
+            "guid": "gZC5SRSLgj", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are side effects of sulfalazine?", 
+                "5-Aminosalicylic acid<div><br /></div><div>S/E: Vomiting, oligospermia, mild haemolysis</div>"
+            ], 
+            "flags": 0, 
+            "guid": "MePYVC7Kv/", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<ol type=\"1\" start=\"1\"><li>[[oc1::metabolised to <b>6-mercaptopurine</b>]]</li><li><b>[[oc2::</b><b>inhibited purine synthesis</b>, DNA+RNA nucleotide synthesis affected]]</li><li>[[oc3::<ol type=\"1\" start=\"1\"><li>inhibits proliferation of lymphocytes</li></ol><div>immunosuppression, inhibited inflammatory response</div>]]</li></ol>", 
+                "What is the MOA of Azathioprine?", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "<ol type=\"1\" start=\"1\"><li>{{c1::metabolised to <b>6-mercaptopurine</b>}}</li><li><b>...</li><li>...</li></ol>", 
+                "<ol type=\"1\" start=\"1\"><li>metabolised to <b>6-mercaptopurine</b></li><li><b>{{c2::</b><b>inhibited purine synthesis</b>, DNA+RNA nucleotide synthesis affected}}</li><li>...</li></ol>", 
+                "<ol type=\"1\" start=\"1\"><li>...</li><li><b></b><b>inhibited purine synthesis</b>, DNA+RNA nucleotide synthesis affected</li><li>{{c3::<ol type=\"1\" start=\"1\"><li>inhibits proliferation of lymphocytes</li></ol><div>immunosuppression, inhibited inflammatory response</div>}}</li></ol>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<ol type=\"1\" start=\"1\"><li>{{c21::metabolised to <b>6-mercaptopurine</b>}}</li><li><b>{{c21::</b><b>inhibited purine synthesis</b>, DNA+RNA nucleotide synthesis affected}}</li><li>{{c21::<ol type=\"1\" start=\"1\"><li>inhibits proliferation of lymphocytes</li></ol><div>immunosuppression, inhibited inflammatory response</div>}}</li></ol>"
+            ], 
+            "flags": 0, 
+            "guid": "f*-.-7qM4&", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<ol type=\"1\" start=\"1\"><li>[[oc1::DHF-reductase inhibitor]]</li><li>[[oc2::Inhibits folic acid conversion]]</li><li>[[oc3::↓ DNA synthesis + cell replication]]</li><li>[[oc4::Cytotoxic, immunosuppressive and anti-inflammatory action]]</li></ol>", 
+                "What is the MOA of Methotrexate?", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "<ol type=\"1\" start=\"1\"><li>{{c1::DHF-reductase inhibitor}}</li><li>...</li><li>...</li><li>...</li></ol>", 
+                "<ol type=\"1\" start=\"1\"><li>DHF-reductase inhibitor</li><li>{{c2::Inhibits folic acid conversion}}</li><li>...</li><li>...</li></ol>", 
+                "<ol type=\"1\" start=\"1\"><li>...</li><li>Inhibits folic acid conversion</li><li>{{c3::↓ DNA synthesis + cell replication}}</li><li>...</li></ol>", 
+                "<ol type=\"1\" start=\"1\"><li>...</li><li>...</li><li>↓ DNA synthesis + cell replication</li><li>{{c4::Cytotoxic, immunosuppressive and anti-inflammatory action}}</li></ol>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<ol type=\"1\" start=\"1\"><li>{{c21::DHF-reductase inhibitor}}</li><li>{{c21::Inhibits folic acid conversion}}</li><li>{{c21::↓ DNA synthesis + cell replication}}</li><li>{{c21::Cytotoxic, immunosuppressive and anti-inflammatory action}}</li></ol>"
+            ], 
+            "flags": 0, 
+            "guid": "nH6Siwa|i7", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are some side effects of Azathioprine?", 
+                "<b>Diarrhoea</b><div><b>Mouth ulcers</b></div><div>Oesophagitis</div><div>Myelosuppression</div><div>Alopecia</div>"
+            ], 
+            "flags": 0, 
+            "guid": "y%IH<V:vq{", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are some side effects of Methotrexate?", 
+                "<b>Nausea</b><div><b>Mouth ulcers</b></div><div>↑ AST/ALT (esp w/ leflunomide)</div><div>Myelosuppression</div><div>Pneumonitis/fibrosis</div><div><br /></div><div>Note:&nbsp;↓S/E w/ folic acid supplementation</div>"
+            ], 
+            "flags": 0, 
+            "guid": "JQ@/H94dWV", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> [[oc1::uveitis, scleritis, episcleritis]]</li><li><b>Skin: </b>[[oc2::erythema nodosum (inflammation of subcut fat)]]</li><li><b>Rheum:</b> [[oc3::enteric arthritis, scroilitis, ankylosing spondylitis]]</li><li><b>Haem:&nbsp;</b>[[oc4::</li><li>Folate/B12 anaemia, Fe deficiency&nbsp;(malabsorption)]]</li><li><b>Hepatobill:</b> [[oc5::Primary sclerosing cholangitis]]</li><li><b>Bone:</b>&nbsp;[[oc6::dec. Ca<sup>2+</sup>&nbsp;(fat malabsorption) &gt; osteomalacia, osteoporosis]]</li><li><b>Systemic:</b> [[oc7::dehydration]]</li><li><b>Nails:</b> [[oc8::clubbing]]</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "What are the peripheral stigmata of Ulcerative Colitis?", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> {{c1::uveitis, scleritis, episcleritis}}</li><li><b>Skin: </b>...</li><li><b>Rheum:</b> ...</li><li><b>Haem:&nbsp;</b>...</li><li><b>Hepatobill:</b> ...</li><li><b>Bone:</b>&nbsp;...</li><li><b>Systemic:</b> ...</li><li><b>Nails:</b> ...</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> ...</li><li><b>Skin: </b>{{c2::erythema nodosum (inflammation of subcut fat)}}</li><li><b>Rheum:</b> ...</li><li><b>Haem:&nbsp;</b>...</li><li><b>Hepatobill:</b> ...</li><li><b>Bone:</b>&nbsp;...</li><li><b>Systemic:</b> ...</li><li><b>Nails:</b> ...</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> ...</li><li><b>Skin: </b>...</li><li><b>Rheum:</b> {{c3::enteric arthritis, scroilitis, ankylosing spondylitis}}</li><li><b>Haem:&nbsp;</b>...</li><li><b>Hepatobill:</b> ...</li><li><b>Bone:</b>&nbsp;...</li><li><b>Systemic:</b> ...</li><li><b>Nails:</b> ...</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> ...</li><li><b>Skin: </b>...</li><li><b>Rheum:</b> ...</li><li><b>Haem:&nbsp;</b>{{c4::</li><li>Folate/B12 anaemia, Fe deficiency&nbsp;(malabsorption)}}</li><li><b>Hepatobill:</b> ...</li><li><b>Bone:</b>&nbsp;...</li><li><b>Systemic:</b> ...</li><li><b>Nails:</b> ...</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> ...</li><li><b>Skin: </b>...</li><li><b>Rheum:</b> ...</li><li><b>Haem:&nbsp;</b>...</li><li><b>Hepatobill:</b> {{c5::Primary sclerosing cholangitis}}</li><li><b>Bone:</b>&nbsp;...</li><li><b>Systemic:</b> ...</li><li><b>Nails:</b> ...</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> ...</li><li><b>Skin: </b>...</li><li><b>Rheum:</b> ...</li><li><b>Haem:&nbsp;</b>...</li><li><b>Hepatobill:</b> ...</li><li><b>Bone:</b>&nbsp;{{c6::dec. Ca<sup>2+</sup>&nbsp;(fat malabsorption) &gt; osteomalacia, osteoporosis}}</li><li><b>Systemic:</b> ...</li><li><b>Nails:</b> ...</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> ...</li><li><b>Skin: </b>...</li><li><b>Rheum:</b> ...</li><li><b>Haem:&nbsp;</b>...</li><li><b>Hepatobill:</b> ...</li><li><b>Bone:</b>&nbsp;...</li><li><b>Systemic:</b> {{c7::dehydration}}</li><li><b>Nails:</b> ...</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> ...</li><li><b>Skin: </b>...</li><li><b>Rheum:</b> ...</li><li><b>Haem:&nbsp;</b>...</li><li><b>Hepatobill:</b> ...</li><li><b>Bone:</b>&nbsp;...</li><li><b>Systemic:</b> ...</li><li><b>Nails:</b> {{c8::clubbing}}</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<ul style=\"margin-left: 20px; \"><li><b>Eyes:</b> {{c21::uveitis, scleritis, episcleritis}}</li><li><b>Skin: </b>{{c21::erythema nodosum (inflammation of subcut fat)}}</li><li><b>Rheum:</b> {{c21::enteric arthritis, scroilitis, ankylosing spondylitis}}</li><li><b>Haem:&nbsp;</b>{{c21::</li><li>Folate/B12 anaemia, Fe deficiency&nbsp;(malabsorption)}}</li><li><b>Hepatobill:</b> {{c21::Primary sclerosing cholangitis}}</li><li><b>Bone:</b>&nbsp;{{c21::dec. Ca<sup>2+</sup>&nbsp;(fat malabsorption) &gt; osteomalacia, osteoporosis}}</li><li><b>Systemic:</b> {{c21::dehydration}}</li><li><b>Nails:</b> {{c21::clubbing}}</li></ul><div>More likely for UC to have peripheral stigmata than Crohn's</div>"
+            ], 
+            "flags": 0, 
+            "guid": "J%OzZ);%/,", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><div><ul style=\"margin-left: 20px; \"><li>[[oc1::Gross,uniform (no skip lesions)]] inflammation extending from [[oc1::rectum]]</li><li>Pale irregular areas = [[oc2::coalitions of ulcers! islands of mucosa left. Mucosal ulcers down to submucosa &amp; pseudopolyps (regenerating mucosa b/w ulcerations).]]</li><li>Dark material = [[oc3::faeces stained mucin&nbsp;]]</li><li>[[oc4::Sharp cut-off]] between affected and normal bowel&nbsp;</li><li>Wall is [[oc5::NOT thickened (c.f. thick in CD)]]&nbsp;</li><li>NO [[oc6::fissures]] (c.f. CD)&nbsp;</li><li>Inflammation typically begins in [[oc7::rectum and spreads proximally]], may involve [[oc7::whole colon (c.f. skip lesions in CD)]]</li></ul></div></div><div><br /></div>", 
+                "Discuss the pathology of this pot<div><img src=\"paste-3539053051907.jpg\" /></div>", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "<div><div><ul style=\"margin-left: 20px; \"><li>{{c1::Gross,uniform (no skip lesions)}} inflammation extending from {{c1::rectum}}</li><li>Pale irregular areas = ...</li><li>Dark material = ...</li><li>... between affected and normal bowel&nbsp;</li><li>Wall is ...&nbsp;</li><li>NO ... (c.f. CD)&nbsp;</li><li>Inflammation typically begins in ..., may involve ...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ul style=\"margin-left: 20px; \"><li>Gross,uniform (no skip lesions) inflammation extending from rectum</li><li>Pale irregular areas = {{c2::coalitions of ulcers! islands of mucosa left. Mucosal ulcers down to submucosa &amp; pseudopolyps (regenerating mucosa b/w ulcerations).}}</li><li>Dark material = ...</li><li>... between affected and normal bowel&nbsp;</li><li>Wall is ...&nbsp;</li><li>NO ... (c.f. CD)&nbsp;</li><li>Inflammation typically begins in ..., may involve ...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ul style=\"margin-left: 20px; \"><li>... inflammation extending from ...</li><li>Pale irregular areas = coalitions of ulcers! islands of mucosa left. Mucosal ulcers down to submucosa &amp; pseudopolyps (regenerating mucosa b/w ulcerations).</li><li>Dark material = {{c3::faeces stained mucin&nbsp;}}</li><li>... between affected and normal bowel&nbsp;</li><li>Wall is ...&nbsp;</li><li>NO ... (c.f. CD)&nbsp;</li><li>Inflammation typically begins in ..., may involve ...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ul style=\"margin-left: 20px; \"><li>... inflammation extending from ...</li><li>Pale irregular areas = ...</li><li>Dark material = faeces stained mucin&nbsp;</li><li>{{c4::Sharp cut-off}} between affected and normal bowel&nbsp;</li><li>Wall is ...&nbsp;</li><li>NO ... (c.f. CD)&nbsp;</li><li>Inflammation typically begins in ..., may involve ...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ul style=\"margin-left: 20px; \"><li>... inflammation extending from ...</li><li>Pale irregular areas = ...</li><li>Dark material = ...</li><li>Sharp cut-off between affected and normal bowel&nbsp;</li><li>Wall is {{c5::NOT thickened (c.f. thick in CD)}}&nbsp;</li><li>NO ... (c.f. CD)&nbsp;</li><li>Inflammation typically begins in ..., may involve ...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ul style=\"margin-left: 20px; \"><li>... inflammation extending from ...</li><li>Pale irregular areas = ...</li><li>Dark material = ...</li><li>... between affected and normal bowel&nbsp;</li><li>Wall is NOT thickened (c.f. thick in CD)&nbsp;</li><li>NO {{c6::fissures}} (c.f. CD)&nbsp;</li><li>Inflammation typically begins in ..., may involve ...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ul style=\"margin-left: 20px; \"><li>... inflammation extending from ...</li><li>Pale irregular areas = ...</li><li>Dark material = ...</li><li>... between affected and normal bowel&nbsp;</li><li>Wall is ...&nbsp;</li><li>NO fissures (c.f. CD)&nbsp;</li><li>Inflammation typically begins in {{c7::rectum and spreads proximally}}, may involve {{c7::whole colon (c.f. skip lesions in CD)}}</li></ul></div></div><div><br /></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Gross,uniform (no skip lesions)}} inflammation extending from {{c21::rectum}}</li><li>Pale irregular areas = {{c21::coalitions of ulcers! islands of mucosa left. Mucosal ulcers down to submucosa &amp; pseudopolyps (regenerating mucosa b/w ulcerations).}}</li><li>Dark material = {{c21::faeces stained mucin&nbsp;}}</li><li>{{c21::Sharp cut-off}} between affected and normal bowel&nbsp;</li><li>Wall is {{c21::NOT thickened (c.f. thick in CD)}}&nbsp;</li><li>NO {{c21::fissures}} (c.f. CD)&nbsp;</li><li>Inflammation typically begins in {{c21::rectum and spreads proximally}}, may involve {{c21::whole colon (c.f. skip lesions in CD)}}</li></ul></div></div><div><br /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "OZq.vfTwjO", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Pathology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Patient presents with flank pain and dysuria.<div>Temp: 39<sup>o</sup>C</div><div>HR: 120 bpm</div><div>BP: 90/60</div><div><hr /></div><div>What is your diagnosis?</div></div>", 
+                "<b>PDx:</b> Septic shock, secondary to pyelonephritis<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>given low BP, tachycardai, fever, dysuria</div></blockquote><div><div><br /></div><div><b>DDx:&nbsp;</b></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Infectious: acute cystitis, PID</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Non-infectious: renal calculi</div></blockquote></div>"
+            ], 
+            "flags": 0, 
+            "guid": "tgxAa}xJ,z", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "Diagnostic"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>[[oc1::E. Coli (80-95%) (urinary pathogenic E. coli that has pyelonephritis assoc. pili]]</li><li>[[oc1::Proteus mirabilis]]</li><li>Other GN: [[oc2::klebsiella, enterobacter, pseudomonas]]</li><li>Other GP: [[oc3::enterococcus, staph epididermis]]</li><li>[[oc4::staph saprophyticus]] (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>[[oc5::Klebsiella]]</li><li>[[oc6::Candida]]</li><li>[[oc7::Pseudomonas]]</li><li>[[oc8::E Coli]]</li><li>[[oc9::Enterococcus]]</li></ul></div>", 
+                "What are the common causative organisms of pyelonephritis?", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>{{c1::E. Coli (80-95%) (urinary pathogenic E. coli that has pyelonephritis assoc. pili}}</li><li>{{c1::Proteus mirabilis}}</li><li>Other GN: ...</li><li>Other GP: ...</li><li>... (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Other GN: {{c2::klebsiella, enterobacter, pseudomonas}}</li><li>Other GP: ...</li><li>... (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Other GN: ...</li><li>Other GP: {{c3::enterococcus, staph epididermis}}</li><li>... (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Other GN: ...</li><li>Other GP: ...</li><li>{{c4::staph saprophyticus}} (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Other GN: ...</li><li>Other GP: ...</li><li>... (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c5::Klebsiella}}</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Other GN: ...</li><li>Other GP: ...</li><li>... (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>{{c6::Candida}}</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Other GN: ...</li><li>Other GP: ...</li><li>... (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>{{c7::Pseudomonas}}</li><li>...</li><li>...</li></ul></div>", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Other GN: ...</li><li>Other GP: ...</li><li>... (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>{{c8::E Coli}}</li><li>...</li></ul></div>", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Other GN: ...</li><li>Other GP: ...</li><li>... (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>{{c9::Enterococcus}}</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Community acquired:<div><ul style=\"margin-left: 20px; \"><li>{{c21::E. Coli (80-95%) (urinary pathogenic E. coli that has pyelonephritis assoc. pili}}</li><li>{{c21::Proteus mirabilis}}</li><li>Other GN: {{c21::klebsiella, enterobacter, pseudomonas}}</li><li>Other GP: {{c21::enterococcus, staph epididermis}}</li><li>{{c21::staph saprophyticus}} (not a major cause of pyelonephritis, more for UTI/cystitis)</li></ul><div>Catheter-associated (Kleb Can PEE):&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Klebsiella}}</li><li>{{c21::Candida}}</li><li>{{c21::Pseudomonas}}</li><li>{{c21::E Coli}}</li><li>{{c21::Enterococcus}}</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "w{h`]G?J/$", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Microbiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<b>Lab:</b><div><ul style=\"margin-left: 20px; \"><li>Urine [[oc1::dipstick (leukocytes + nitrates (G-ve) +ve = high sensitivity &amp; specificity for UTI]]</li><li>[[oc1::Mid-stream urine MCS: culture organism, sensitivity to Abx]]</li><li>Blood [[oc2::culture and sensitivity]]</li><li>[[oc2::FBC:&nbsp;↑ WCC, anaemia&nbsp;]]</li><li>[[oc2::EUC:&nbsp;↑ creatinine, urea, K<sup>+</sup>, ↓Na<sup>+</sup>]]</li><li>[[oc2::CRP:&nbsp;↑]]</li><li>[[oc2::ABG: metabolic acidosis (shock)]]</li></ul><div><div><b>Imaging:</b></div></div></div><div><ul style=\"margin-left: 20px; \"><li>Renal&nbsp;[[oc3::</li><li>US (US KUB)</li><ul><li>small, irregular, scarred kidneys w/ echogenic parenchyma/fat stranding = pyelonephritis</li><li>hydronephrosis &amp; renal calculi</li></ul>]]<li>[[oc4::MRI: most sensitive for diagnosing pyelonephritis]]</li><li>Consider [[oc5::Cystoscopy: if still no answers]]</li></ul></div>", 
+                "Patient presents with flank pain and dysuria.<div>Temp: 39<sup>o</sup>C</div><div>HR: 120 bpm</div><div>BP: 90/60</div><div><hr /></div><div>What investigations would you order after primary survey?</div>", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "<b>Lab:</b><div><ul style=\"margin-left: 20px; \"><li>Urine {{c1::dipstick (leukocytes + nitrates (G-ve) +ve = high sensitivity &amp; specificity for UTI}}</li><li>{{c1::Mid-stream urine MCS: culture organism, sensitivity to Abx}}</li><li>Blood ...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul><div><div><b>Imaging:</b></div></div></div><div><ul style=\"margin-left: 20px; \"><li>Renal&nbsp;...<li>...</li><li>Consider ...</li></ul></div>", 
+                "<b>Lab:</b><div><ul style=\"margin-left: 20px; \"><li>Urine ...</li><li>...</li><li>Blood {{c2::culture and sensitivity}}</li><li>{{c2::FBC:&nbsp;↑ WCC, anaemia&nbsp;}}</li><li>{{c2::EUC:&nbsp;↑ creatinine, urea, K<sup>+</sup>, ↓Na<sup>+</sup>}}</li><li>{{c2::CRP:&nbsp;↑}}</li><li>{{c2::ABG: metabolic acidosis (shock)}}</li></ul><div><div><b>Imaging:</b></div></div></div><div><ul style=\"margin-left: 20px; \"><li>Renal&nbsp;...<li>...</li><li>Consider ...</li></ul></div>", 
+                "<b>Lab:</b><div><ul style=\"margin-left: 20px; \"><li>Urine ...</li><li>...</li><li>Blood ...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul><div><div><b>Imaging:</b></div></div></div><div><ul style=\"margin-left: 20px; \"><li>Renal&nbsp;{{c3::</li><li>US (US KUB)</li><ul><li>small, irregular, scarred kidneys w/ echogenic parenchyma/fat stranding = pyelonephritis</li><li>hydronephrosis &amp; renal calculi</li></ul>}}<li>...</li><li>Consider ...</li></ul></div>", 
+                "<b>Lab:</b><div><ul style=\"margin-left: 20px; \"><li>Urine ...</li><li>...</li><li>Blood ...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul><div><div><b>Imaging:</b></div></div></div><div><ul style=\"margin-left: 20px; \"><li>Renal&nbsp;...<li>{{c4::MRI: most sensitive for diagnosing pyelonephritis}}</li><li>Consider ...</li></ul></div>", 
+                "<b>Lab:</b><div><ul style=\"margin-left: 20px; \"><li>Urine ...</li><li>...</li><li>Blood ...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul><div><div><b>Imaging:</b></div></div></div><div><ul style=\"margin-left: 20px; \"><li>Renal&nbsp;...<li>...</li><li>Consider {{c5::Cystoscopy: if still no answers}}</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<b>Lab:</b><div><ul style=\"margin-left: 20px; \"><li>Urine {{c21::dipstick (leukocytes + nitrates (G-ve) +ve = high sensitivity &amp; specificity for UTI}}</li><li>{{c21::Mid-stream urine MCS: culture organism, sensitivity to Abx}}</li><li>Blood {{c21::culture and sensitivity}}</li><li>{{c21::FBC:&nbsp;↑ WCC, anaemia&nbsp;}}</li><li>{{c21::EUC:&nbsp;↑ creatinine, urea, K<sup>+</sup>, ↓Na<sup>+</sup>}}</li><li>{{c21::CRP:&nbsp;↑}}</li><li>{{c21::ABG: metabolic acidosis (shock)}}</li></ul><div><div><b>Imaging:</b></div></div></div><div><ul style=\"margin-left: 20px; \"><li>Renal&nbsp;{{c21::</li><li>US (US KUB)</li><ul><li>small, irregular, scarred kidneys w/ echogenic parenchyma/fat stranding = pyelonephritis</li><li>hydronephrosis &amp; renal calculi</li></ul>}}<li>{{c21::MRI: most sensitive for diagnosing pyelonephritis}}</li><li>Consider {{c21::Cystoscopy: if still no answers}}</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "l.dW1mqdF7", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Diagnostics"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><div><ol type=\"1\" start=\"1\"><li>[[oc1::Acute Coronary Syndrome]]</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>[[oc2::Progression to unstable angina]]</li><li>[[oc2::Acute MI (chest pain, on exertion, nausea, CVD risk factors)&nbsp;]]</li></ul></div><div><ol type=\"1\" start=\"2\"><li>DDx&nbsp;</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>[[oc3::Oesophagitis/GORD (commonly mimics angina)&nbsp;]]</li><li>[[oc3::Intercostal Strain (common benign cause of chest pain especially in those exercising)&nbsp;]]</li></ul><ol type=\"1\" start=\"3\"><li>Differentials that may be life threatening that I would like to exclude:&nbsp;</li></ol><ul style=\"margin-left: 20px; \"><li>[[oc4::PE&nbsp;]]</li><li>[[oc4::Aortic Dissection&nbsp;]]</li><li>[[oc4::Tension pneumothorax&nbsp;]]</li><li>[[oc4::Cardiac Tamponade&nbsp;]]</li><li>[[oc4::Pericarditis&nbsp;]]</li></ul></div></div><div><br /></div>", 
+                "55M with 2hr hx of central, retrosternal, crushing chest pain and 10 year &nbsp;background of HT<hr />Provisional and Diff Dx? &nbsp;", 
+                "", 
+                "", 
+                "3,1,0 | n,n,n,n", 
+                "<div><div><ol type=\"1\" start=\"1\"><li>{{c1::Acute Coronary Syndrome}}</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li></ul></div><div><ol type=\"1\" start=\"2\"><li>DDx&nbsp;</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li></ul><ol type=\"1\" start=\"3\"><li>Differentials that may be life threatening that I would like to exclude:&nbsp;</li></ol><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ol type=\"1\" start=\"1\"><li>Acute Coronary Syndrome</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>{{c2::Progression to unstable angina}}</li><li>{{c2::Acute MI (chest pain, on exertion, nausea, CVD risk factors)&nbsp;}}</li></ul></div><div><ol type=\"1\" start=\"2\"><li>DDx&nbsp;</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li></ul><ol type=\"1\" start=\"3\"><li>Differentials that may be life threatening that I would like to exclude:&nbsp;</li></ol><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ol type=\"1\" start=\"1\"><li>Acute Coronary Syndrome</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>Progression to unstable angina</li><li>Acute MI (chest pain, on exertion, nausea, CVD risk factors)&nbsp;</li></ul></div><div><ol type=\"1\" start=\"2\"><li>DDx&nbsp;</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>{{c3::Oesophagitis/GORD (commonly mimics angina)&nbsp;}}</li><li>{{c3::Intercostal Strain (common benign cause of chest pain especially in those exercising)&nbsp;}}</li></ul><ol type=\"1\" start=\"3\"><li>Differentials that may be life threatening that I would like to exclude:&nbsp;</li></ol><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div></div><div><br /></div>", 
+                "<div><div><ol type=\"1\" start=\"1\"><li>Acute Coronary Syndrome</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>Progression to unstable angina</li><li>Acute MI (chest pain, on exertion, nausea, CVD risk factors)&nbsp;</li></ul></div><div><ol type=\"1\" start=\"2\"><li>DDx&nbsp;</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>Oesophagitis/GORD (commonly mimics angina)&nbsp;</li><li>Intercostal Strain (common benign cause of chest pain especially in those exercising)&nbsp;</li></ul><ol type=\"1\" start=\"3\"><li>Differentials that may be life threatening that I would like to exclude:&nbsp;</li></ol><ul style=\"margin-left: 20px; \"><li>{{c4::PE&nbsp;}}</li><li>{{c4::Aortic Dissection&nbsp;}}</li><li>{{c4::Tension pneumothorax&nbsp;}}</li><li>{{c4::Cardiac Tamponade&nbsp;}}</li><li>{{c4::Pericarditis&nbsp;}}</li></ul></div></div><div><br /></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<div><div><ol type=\"1\" start=\"1\"><li>{{c21::Acute Coronary Syndrome}}</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Progression to unstable angina}}</li><li>{{c21::Acute MI (chest pain, on exertion, nausea, CVD risk factors)&nbsp;}}</li></ul></div><div><ol type=\"1\" start=\"2\"><li>DDx&nbsp;</li></ol></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Oesophagitis/GORD (commonly mimics angina)&nbsp;}}</li><li>{{c21::Intercostal Strain (common benign cause of chest pain especially in those exercising)&nbsp;}}</li></ul><ol type=\"1\" start=\"3\"><li>Differentials that may be life threatening that I would like to exclude:&nbsp;</li></ol><ul style=\"margin-left: 20px; \"><li>{{c21::PE&nbsp;}}</li><li>{{c21::Aortic Dissection&nbsp;}}</li><li>{{c21::Tension pneumothorax&nbsp;}}</li><li>{{c21::Cardiac Tamponade&nbsp;}}</li><li>{{c21::Pericarditis&nbsp;}}</li></ul></div></div><div><br /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "x5ZF^Po}xY", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "Anatomy", 
+                "Cardiac,", 
+                "DDx,"
+            ]
+        }
+    ]
+}

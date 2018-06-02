@@ -55,43 +55,56 @@
     "extendRev": 50, 
     "media_files": [
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-7-Q.svg", 
-        "0cdbd102581e4338bd9a115361607b07-oa-4-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-O.svg", 
         "31da79e1352d420083df88127db7706c-oa-14-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-7-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-6-Q.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-O.svg", 
+        "56d415d9bb6d4c20b337b2e3b0b16959-oa-1-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-9-A.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2-Q.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-2-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-16-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-8-Q.svg", 
+        "0cdbd102581e4338bd9a115361607b07-oa-4-Q.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-2-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-7-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-3-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-11-A.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-8-Q.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-4-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-2-A.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-1-Q.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-4-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-3-Q.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-4-A.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-1-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-17-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-2-Q.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-O.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-4-A.svg", 
         "31da79e1352d420083df88127db7706c-oa-10-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-7-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-O.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-6-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-3-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-14-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-5-A.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-6-A.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-6-A.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-1-A.svg", 
         "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-3-A.svg", 
-        "97e3949ec6864d339848a7028ed74ead-oa-1-A.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-5-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-7-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-12-Q.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-5-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-5-Q.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-1-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-6-Q.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-3-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-9-A.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-O.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-6-A.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-10-A.svg", 
         "tmp0TYXXg.png", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-1-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-7-Q.svg", 
@@ -99,13 +112,15 @@
         "a98e7f6f69d546e88ea027530f7358c1-ao-1-A.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-6-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-13-A.svg", 
-        "56d415d9bb6d4c20b337b2e3b0b16959-oa-11-Q.svg", 
-        "97e3949ec6864d339848a7028ed74ead-oa-5-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-1-Q.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-3-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-10-A.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-4-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-6-Q.svg", 
+        "169747a37db545b38cd40d8c86d4b008-oa-6-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-5-Q.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-4-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-7-Q.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-O.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-5-Q.svg", 
@@ -117,84 +132,115 @@
         "085981af72b143f5922ad8a3ad0ba694-ao-7-Q.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-O.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-5-Q.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-3-Q.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-4-A.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-3-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-3-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-O.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-12-Q.svg", 
-        "52ff00f3d70e41368901ccf194969601-oa-2-Q.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-O.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-9-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-8-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-3-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-1-Q.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-11-Q.svg", 
-        "169747a37db545b38cd40d8c86d4b008-oa-5-Q.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-12-A.svg", 
+        "52ff00f3d70e41368901ccf194969601-oa-2-Q.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-3-Q.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-12-Q.svg", 
+        "97e3949ec6864d339848a7028ed74ead-oa-3-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-8-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-3-Q.svg", 
-        "0cdbd102581e4338bd9a115361607b07-oa-16-A.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-3-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-16-A.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-6-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-3-Q.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-2-Q.svg", 
+        "tmpZHmUBT.png", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-2-A.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-4-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-12-Q.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-2-A.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-O.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-6-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-2-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-11-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-4-A.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-8-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-6-A.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-5-Q.svg", 
+        "97e3949ec6864d339848a7028ed74ead-oa-2-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1-Q.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-O.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-17-A.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-1-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-9-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-4-A.svg", 
+        "97e3949ec6864d339848a7028ed74ead-oa-2-Q.svg", 
         "paste-43383464657282.jpg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-5-Q.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-10-A.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-2-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-6-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-15-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-7-Q.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-O.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-5-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-1-Q.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-6-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-8-Q.svg", 
-        "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-3-A.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-4-A.svg", 
+        "169747a37db545b38cd40d8c86d4b008-oa-5-Q.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-7-A.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-5-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-4-Q.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-5-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-11-A.svg", 
-        "52ff00f3d70e41368901ccf194969601-oa-4-Q.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-1-A.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-7-Q.svg", 
         "e4e3e8a5d2c54cbe844eabed65e6d984-ao-O.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-3-A.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-5-Q.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-7-Q.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-10-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-8-Q.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-5-A.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-5-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-12-A.svg", 
+        "tmp2ytuxP.png", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-7-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-15-A.svg", 
-        "56d415d9bb6d4c20b337b2e3b0b16959-oa-1-A.svg", 
-        "56d415d9bb6d4c20b337b2e3b0b16959-oa-8-Q.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-2-A.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-2-A.svg", 
+        "067223f9a9e6452491d86b393eac9300-oa-1-Q.svg", 
+        "52ff00f3d70e41368901ccf194969601-oa-7-A.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-4-Q.svg", 
-        "169747a37db545b38cd40d8c86d4b008-oa-6-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-3-A.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-2-A.svg", 
+        "067223f9a9e6452491d86b393eac9300-oa-7-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-10-A.svg", 
         "tmpk6Dfx1.png", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-4-Q.svg", 
+        "97e3949ec6864d339848a7028ed74ead-oa-1-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-9-Q.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-7-Q.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-5-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-8-A.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-1-Q.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-9-Q.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-1-A.svg", 
         "31da79e1352d420083df88127db7706c-oa-6-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-7-Q.svg", 
         "3e07b655cf444b62ae7e0b5fa52e1ac8_tmpmh0emc.png", 
+        "97e3949ec6864d339848a7028ed74ead-oa-1-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-2-A.svg", 
+        "56d415d9bb6d4c20b337b2e3b0b16959-oa-O.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-6-Q.svg", 
         "97e3949ec6864d339848a7028ed74ead-oa-7-Q.svg", 
-        "067223f9a9e6452491d86b393eac9300-oa-1-Q.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-1-A.svg", 
         "31da79e1352d420083df88127db7706c-oa-12-A.svg", 
-        "067223f9a9e6452491d86b393eac9300-oa-7-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-9-A.svg", 
         "tmpiorSOQ.png", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-12-A.svg", 
         "e4e3e8a5d2c54cbe844eabed65e6d984_tmpkgpmq8.png", 
@@ -203,23 +249,34 @@
         "085981af72b143f5922ad8a3ad0ba694-ao-12-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-10-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-14-Q.svg", 
+        "0cdbd102581e4338bd9a115361607b07-oa-13-A.svg", 
+        "tmpYAdUX8.png", 
+        "9bb412689a134f32933ea71a789c39cf-oa-5-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-11-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-2-A.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-2-Q.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-3-Q.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-4-Q.svg", 
-        "97e3949ec6864d339848a7028ed74ead-oa-6-A.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-3-A.svg", 
+        "56d415d9bb6d4c20b337b2e3b0b16959-oa-4-Q.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-O.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-1-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-18-Q.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2-A.svg", 
-        "067223f9a9e6452491d86b393eac9300-oa-8-Q.svg", 
+        "067223f9a9e6452491d86b393eac9300-oa-1-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-2-A.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-1-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-6-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-12-A.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-2-A.svg", 
         "97e3949ec6864d339848a7028ed74ead-oa-5-A.svg", 
-        "97e3949ec6864d339848a7028ed74ead-oa-2-A.svg", 
-        "a98e7f6f69d546e88ea027530f7358c1-ao-3-A.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-6-A.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-4-A.svg", 
+        "tmpnDFoAn.png", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-13-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-4-A.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-8-A.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-5-A.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-1-Q.svg", 
         "stomach-blood-supply-anatomy-detail-anatomy-of-the-abdomen-blood-supply-nerve-supply-to-the.jpg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-O.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-10-A.svg", 
@@ -232,44 +289,61 @@
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-6-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-16-Q.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-2-A.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-7-Q.svg", 
         "e4e3e8a5d2c54cbe844eabed65e6d984-ao-1-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-3-A.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-4-Q.svg", 
         "97e3949ec6864d339848a7028ed74ead-oa-O.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-4-A.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-3-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-9-A.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-3-Q.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-2-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-9-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-11-Q.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-6-Q.svg", 
-        "56d415d9bb6d4c20b337b2e3b0b16959-oa-1-Q.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-3-A.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-2-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-7-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-5-A.svg", 
         "31da79e1352d420083df88127db7706c-oa-3-A.svg", 
         "97e3949ec6864d339848a7028ed74ead-oa-7-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-2-A.svg", 
-        "56d415d9bb6d4c20b337b2e3b0b16959-oa-O.svg", 
+        "tmpLS5C_u.png", 
         "169747a37db545b38cd40d8c86d4b008-oa-3-A.svg", 
-        "0cdbd102581e4338bd9a115361607b07-oa-13-A.svg", 
+        "56d415d9bb6d4c20b337b2e3b0b16959-oa-10-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-8-A.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2_tmpkgpmq8.png", 
         "085981af72b143f5922ad8a3ad0ba694-ao-O.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-6-A.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-7-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-12-Q.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-2-Q.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-8-A.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-4-Q.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-5-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-3-A.svg", 
+        "97e3949ec6864d339848a7028ed74ead-oa-6-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-6-A.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-4-Q.svg", 
         "tmpUY78F4.png", 
         "0cdbd102581e4338bd9a115361607b07-oa-8-A.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-1-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-10-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-11-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-9-Q.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-3-Q.svg", 
-        "067223f9a9e6452491d86b393eac9300-oa-9-Q.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-3-Q.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-7-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-11-Q.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-2-A.svg", 
         "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-5-Q.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-2-A.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-2-A.svg", 
         "tmpVxw4g8.png", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-12-A.svg", 
+        "tmpqQN7cL.png", 
         "068a0307b9104679a8ae92ced0f693bb-oa-5-A.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-1-A.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-1-A.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-4-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-10-Q.svg", 
@@ -278,86 +352,109 @@
         "31da79e1352d420083df88127db7706c-oa-O.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-1-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-3-A.svg", 
+        "tmpkwNqOz.png", 
         "067223f9a9e6452491d86b393eac9300-oa-12-Q.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-2-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-4-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-2-Q.svg", 
+        "169747a37db545b38cd40d8c86d4b008-oa-4-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-10-Q.svg", 
+        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-2-A.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-5-A.svg", 
-        "56d415d9bb6d4c20b337b2e3b0b16959-oa-4-Q.svg", 
+        "56d415d9bb6d4c20b337b2e3b0b16959-oa-11-Q.svg", 
         "paste-43349104918912.jpg", 
         "31da79e1352d420083df88127db7706c-oa-14-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-8-A.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-1-Q.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-3-Q.svg", 
+        "97e3949ec6864d339848a7028ed74ead-oa-5-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-13-A.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-3-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-9-A.svg", 
         "31da79e1352d420083df88127db7706c-oa-4-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-11-Q.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-6-Q.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-10-Q.svg", 
+        "067223f9a9e6452491d86b393eac9300-oa-8-Q.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-1-A.svg", 
+        "56d415d9bb6d4c20b337b2e3b0b16959-oa-1-A.svg", 
         "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-7-A.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-5-A.svg", 
-        "97e3949ec6864d339848a7028ed74ead-oa-3-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-7-Q.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-1-A.svg", 
         "97e3949ec6864d339848a7028ed74ead-oa-4-Q.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-8-Q.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-7-Q.svg", 
+        "067223f9a9e6452491d86b393eac9300-oa-9-Q.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-2-A.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-1-A.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-2-Q.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-8-A.svg", 
         "tmpvvPiYo.png", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-5-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-12-Q.svg", 
-        "a98e7f6f69d546e88ea027530f7358c1-ao-13-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-9-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-1-A.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-O.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-2-A.svg", 
-        "169747a37db545b38cd40d8c86d4b008-oa-4-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-1-A.svg", 
         "tmpcv6CXV.png", 
         "0cdbd102581e4338bd9a115361607b07-oa-7-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-14-Q.svg", 
+        "0cdbd102581e4338bd9a115361607b07-oa-16-A.svg", 
         "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-4-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-O.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-5-A.svg", 
         "97e3949ec6864d339848a7028ed74ead-oa-4-A.svg", 
+        "a98e7f6f69d546e88ea027530f7358c1-ao-3-A.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-7-A.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-2-Q.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-9-A.svg", 
         "tmplgxGdZ.png", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-2-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-11-A.svg", 
         "tmprblswa.png", 
         "31da79e1352d420083df88127db7706c-oa-12-Q.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-5-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-15-Q.svg", 
-        "97e3949ec6864d339848a7028ed74ead-oa-6-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-2-Q.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-2-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-6-Q.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-4-A.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-3-A.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-8-Q.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-2-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-11-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-8-Q.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-1-Q.svg", 
+        "4740d913cfa140c3a4207d3c151f2a7b-oa-4-Q.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-3-Q.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-3-Q.svg", 
+        "067223f9a9e6452491d86b393eac9300-oa-6-A.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-2-Q.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-9-A.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-4-A.svg", 
-        "56d415d9bb6d4c20b337b2e3b0b16959-oa-10-Q.svg", 
+        "52ff00f3d70e41368901ccf194969601-oa-4-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-4-A.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-O.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-7-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-15-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-18-A.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-1-Q.svg", 
         "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-6-A.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-9-Q.svg", 
+        "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-3-A.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-2-Q.svg", 
         "tmpHeEwuG.png", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-11-A.svg", 
-        "31da79e1352d420083df88127db7706c-oa-9-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-7-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-4-A.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-7-Q.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-4-A.svg", 
         "tmpj0M47r.png", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-7-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-12-A.svg", 
+        "97e3949ec6864d339848a7028ed74ead-oa-6-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-10-Q.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-4-Q.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-5-Q.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-2-A.svg", 
         "56d415d9bb6d4c20b337b2e3b0b16959-oa-11-A.svg", 
@@ -367,35 +464,41 @@
         "paste-3539053051907.jpg", 
         "e4e3e8a5d2c54cbe844eabed65e6d984-ao-1-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-11-A.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-4-A.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-6-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-6-A.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-3-A.svg", 
-        "97e3949ec6864d339848a7028ed74ead-oa-2-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-4-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-6-Q.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-5-Q.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-10-Q.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-4-Q.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-4-Q.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-7-Q.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-6-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-2-Q.svg", 
         "31da79e1352d420083df88127db7706c-oa-4-A.svg", 
-        "97e3949ec6864d339848a7028ed74ead-oa-1-Q.svg", 
+        "c83fc304c11f412abfb7a595aa3f498e-oa-5-Q.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-7-A.svg", 
         "31da79e1352d420083df88127db7706c-oa-13-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-11-A.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-4-A.svg", 
         "tmpkQmGQQ.png", 
-        "067223f9a9e6452491d86b393eac9300-oa-1-A.svg", 
-        "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-1-Q.svg", 
+        "02ec0421dd3c4d5c963b8f320b19967a-oa-1-Q.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-3-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-1-Q.svg", 
         "a98e7f6f69d546e88ea027530f7358c1-ao-6-A.svg", 
+        "ad09d0d34d2d464dbf64527c53e0058b-oa-1-Q.svg", 
         "169747a37db545b38cd40d8c86d4b008-oa-5-A.svg", 
         "067223f9a9e6452491d86b393eac9300-oa-14-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-12-A.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-5-A.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-13-Q.svg", 
         "4174ebb3d68f40d1be6a8e44f94fbf3c-oa-1-Q.svg", 
         "068a0307b9104679a8ae92ced0f693bb-oa-8-A.svg", 
-        "067223f9a9e6452491d86b393eac9300-oa-6-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-8-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-9-Q.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-O.svg", 
-        "52ff00f3d70e41368901ccf194969601-oa-7-A.svg", 
+        "4ca0f2879c1741d4907301a746fdcaa6-oa-1-Q.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-4-Q.svg", 
         "0cdbd102581e4338bd9a115361607b07-oa-6-A.svg", 
         "3e07b655cf444b62ae7e0b5fa52e1ac8-oa-5-A.svg", 
@@ -410,11 +513,16 @@
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-10-Q.svg", 
         "627e5df105064a4aa4c3db7b1f6c3fb2-ao-3-A.svg", 
         "0ba9d2e615d54bcda9057ef9b71fa453-oa-6-Q.svg", 
+        "56d415d9bb6d4c20b337b2e3b0b16959-oa-8-Q.svg", 
+        "a98e7f6f69d546e88ea027530f7358c1-ao-13-Q.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-7-Q.svg", 
         "tmpsDyI_A.png", 
         "067223f9a9e6452491d86b393eac9300-oa-13-Q.svg", 
+        "31da79e1352d420083df88127db7706c-oa-9-Q.svg", 
         "52ff00f3d70e41368901ccf194969601-oa-4-A.svg", 
+        "7a5c00eb50a54ed5b6538d3ad2f97923-oa-3-A.svg", 
         "085981af72b143f5922ad8a3ad0ba694-ao-8-A.svg", 
+        "9bb412689a134f32933ea71a789c39cf-oa-5-A.svg", 
         "31da79e1352d420083df88127db7706c-oa-10-Q.svg", 
         "7845c17daf0a499db1d8d21ca0f099ef-oa-8-Q.svg", 
         "0c7aeee1db3d46c2baf11e1e21f68b8c-oa-6-Q.svg", 
@@ -1660,7 +1768,7 @@
             "data": "", 
             "fields": [
                 "<div>A 65 year old female who had a 10 year history of hypertension and a myocardial infarction three years previously, presented to the Emergency Department with sudden onset of weakness in &nbsp;the left arm and leg.</div><div>&nbsp;</div><div>On examination, her pulse was rapid and irregularly irregular. She had a left VII cranial nerve palsy of the upper motor neuron type and left spastic hemiparesis, with an ipsilateral upgoing plantar response</div><div><br /></div><div>What is the <b>lesion</b> that caused this neurological deficit and <i>what areas</i> are likely to be affected?</div>", 
-                "1.&nbsp;R sided CVA caused by <i>lenticulostriate artery</i> <b>occlusion</b> or&nbsp;<div>2. <b>Haemorrhage</b> affecting <i>internal capsule, basal ganglia and thalamus</i><div><br /></div></div>"
+                "1.&nbsp;R sided CVA caused by <i>lenticulostriate artery</i> <b>occlusion</b> or&nbsp;<div>2. <b>Haemorrhage</b>&nbsp;(likely Charcot Bouchard aneurysm rupture) affecting <i>internal capsule, basal ganglia and thalamus</i><div><br /></div></div>"
             ], 
             "flags": 0, 
             "guid": "e6`U7;0=CS", 
@@ -1674,7 +1782,7 @@
             "data": "", 
             "fields": [
                 "<div>A 65 year old female who had a 10 year history of hypertension and a myocardial infarction three years previously, presented to the Emergency Department with sudden onset of weakness in &nbsp;the left arm and leg.&nbsp;</div><div><br /></div><div>On examination, her pulse was rapid and irregularly irregular. She had a left VII cranial nerve palsy of the upper motor neuron type and left spastic hemiparesis, with an ipsilateral upgoing plantar response</div><div><br /></div><div>What are your differentials?</div>", 
-                "<ol type=\"1\" start=\"1\"><li>1.&nbsp;R sided MCA stroke (less likely in this case bc you would see contralateral sensory loss, cortical symptoms and a lower limb sparing)</li><li>Brain tumour&nbsp;</li><li>Seizure with post-ictal deficit&nbsp;</li></ol><div><br /></div><div><br /></div>"
+                "<ol type=\"1\" start=\"1\"><li>R sided MCA stroke (less likely in this case bc you would see contralateral sensory loss, cortical symptoms and a lower limb sparing)</li><li>Brain tumour&nbsp;</li><li>Seizure with post-ictal deficit&nbsp;</li></ol><div><br /></div><div><br /></div>"
             ], 
             "flags": 0, 
             "guid": "E&Hnz(}+B[", 
@@ -7826,6 +7934,1589 @@
             "tags": [
                 "PathQ3"
             ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>A 65 year old man presented to the Emergency Department with a six-hour history of interscapular pain, urinary retention and mild bilateral leg weakness. On further questioning, he revealed that he had felt unwell for six weeks and had lost 3 kg in the past month.&nbsp;</div><div><br /></div><div>On examination he had a distended bladder, signs of motor dysfunction in both legs, decreased sensation to the level of his rib cage and reduction in vibration sense below his iliac crest.&nbsp;</div><div><br /></div><div>What is your provisional dx?</div>", 
+                "<div><ul style=\"margin-left: 20px; \"><li>Spinal Metastases --&gt; spinal cord compression</li><li>Note: Cancers metastasising to bone = lung, prostate, breast, colon, myeloma, kidney&nbsp;</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "D/^ys:%Cd_", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>A 65 year old man presented to the Emergency Department with a six-hour history of interscapular pain, urinary retention and mild bilateral leg weakness. On further questioning, he revealed that he had felt unwell for six weeks and had lost 3 kg in the past month.&nbsp;</div><div><br /></div><div>On examination he had a distended bladder, signs of motor dysfunction in both legs, decreased sensation to the level of his rib cage and reduction in vibration sense below his iliac crest.&nbsp;</div><div><br /></div><div>What are your differential diagnoses?</div>", 
+                "<div><ol type=\"1\" start=\"1\"><li>Vertebral # (OP --&gt; crush # --&gt; retro-pulsion of fragment impinges spinal cord)&nbsp;</li><li>Vertebral Disk Herniation&nbsp;</li><li>Osteomyelitis/Abscess (UTI or other infection source spreading to spine )&nbsp;</li></ol>Pott’s Disease (TB --&gt; vertebral osteomyelitis)&nbsp;<br />Paget’s Disease&nbsp;<br />Spondylolisthesis (zygapophyseal joint dislocation – would likely need to be bilateral)&nbsp;<br />Multiple myeloma (myeloma --&gt; lytic lesion --&gt; pathological fracture)&nbsp;</div>"
+            ], 
+            "flags": 0, 
+            "guid": "x&rHm5~a9M", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>A 65 year old man presented to the Emergency Department with a six-hour history of interscapular pain, urinary retention and mild bilateral leg weakness. On further questioning, he revealed that he had felt unwell for six weeks and had lost 3 kg in the past month.&nbsp;</div><div><br /></div><div>On examination he had a distended bladder, signs of motor dysfunction in both legs, decreased sensation to the level of his rib cage and reduction in vibration sense below his iliac crest.&nbsp;</div><div><br /></div><div>What investigations are appropriate?</div>", 
+                "<div><u>Bedside</u>&nbsp;</div><div>Urinalysis</div><div><br /></div><div><div><u>Bloods</u></div><div>FBC:&nbsp;</div><div><ul style=\"margin-left: 20px; \"><li>normochromic, normocytic anaemia and thrombocytopenia (bone marrow involvement)</li><li>Raised WCC (osteomyelitis)</li><li>CMP (↑Ca2+, paraneoplastic effect)&nbsp;</li><li>ALP (↑in bony mets)&nbsp;</li><li>EUC (↑ in urinary retention 2<sup>o</sup>&nbsp;to&nbsp;prostate cancer causing obstruction)&nbsp;</li><li>LFT (mets)&nbsp;</li><li>PSA &amp; DRE (↑ suggests prostate cancer, &gt;20ng/mL --&gt; bone scan)&nbsp;</li></ul></div></div><div><u>Imaging&nbsp;</u></div><div><ul style=\"margin-left: 20px; \"><li>MRI/CT spine (osteoblastic lesions in prostate ca)&nbsp;</li><li>CXR (TB, malignancy)&nbsp;</li><li>Transrectal U/S &amp; biopsy</li><li>Bone scan (mets-later)&nbsp;</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "m5iK6>+{7&", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Discuss public health perspectives of PSA screening<div><br /></div><div><u>Pros</u><div><ol type=\"1\" start=\"1\"><li>[[oc1::Detect prostate cancer early (usually is asymptomatic)&nbsp;]]</li><li>[[oc2::Men diagnosed with early PCa live longer c.f. more advanced ca&nbsp;]]</li><li>[[oc3::PCa which has spread outside of prostate is generally incurable]]&nbsp;</li></ol></div><div><div><u>Cons</u></div></div><div><div><ol type=\"1\" start=\"1\"><li>[[oc4::5% of men &gt; 80years have prostate cancer but only &lt;4% will die for it]]</li><li>[[oc5::A/E of unnecessary treatment = erectile dysfunction, urinary incontinence]]</li><li>[[oc6::By itself, PSA has too low PPV-&nbsp;false +ves:&nbsp;BPH, Prostatitis, 24 hours post ejaculation, &lt;7d post urinary catheterisation, TURP]]</li></ol></div></div></div>", 
+                "<u><br /></u>", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "Discuss public health perspectives of PSA screening<div><br /></div><div><u>Pros</u><div><ol type=\"1\" start=\"1\"><li>{{c1::Detect prostate cancer early (usually is asymptomatic)&nbsp;}}</li><li>...</li><li>...&nbsp;</li></ol></div><div><div><u>Cons</u></div></div><div><div><ol type=\"1\" start=\"1\"><li>...</li><li>...</li><li>...</li></ol></div></div></div>", 
+                "Discuss public health perspectives of PSA screening<div><br /></div><div><u>Pros</u><div><ol type=\"1\" start=\"1\"><li>Detect prostate cancer early (usually is asymptomatic)&nbsp;</li><li>{{c2::Men diagnosed with early PCa live longer c.f. more advanced ca&nbsp;}}</li><li>...&nbsp;</li></ol></div><div><div><u>Cons</u></div></div><div><div><ol type=\"1\" start=\"1\"><li>...</li><li>...</li><li>...</li></ol></div></div></div>", 
+                "Discuss public health perspectives of PSA screening<div><br /></div><div><u>Pros</u><div><ol type=\"1\" start=\"1\"><li>...</li><li>Men diagnosed with early PCa live longer c.f. more advanced ca&nbsp;</li><li>{{c3::PCa which has spread outside of prostate is generally incurable}}&nbsp;</li></ol></div><div><div><u>Cons</u></div></div><div><div><ol type=\"1\" start=\"1\"><li>...</li><li>...</li><li>...</li></ol></div></div></div>", 
+                "Discuss public health perspectives of PSA screening<div><br /></div><div><u>Pros</u><div><ol type=\"1\" start=\"1\"><li>...</li><li>...</li><li>PCa which has spread outside of prostate is generally incurable&nbsp;</li></ol></div><div><div><u>Cons</u></div></div><div><div><ol type=\"1\" start=\"1\"><li>{{c4::5% of men &gt; 80years have prostate cancer but only &lt;4% will die for it}}</li><li>...</li><li>...</li></ol></div></div></div>", 
+                "Discuss public health perspectives of PSA screening<div><br /></div><div><u>Pros</u><div><ol type=\"1\" start=\"1\"><li>...</li><li>...</li><li>...&nbsp;</li></ol></div><div><div><u>Cons</u></div></div><div><div><ol type=\"1\" start=\"1\"><li>5% of men &gt; 80years have prostate cancer but only &lt;4% will die for it</li><li>{{c5::A/E of unnecessary treatment = erectile dysfunction, urinary incontinence}}</li><li>...</li></ol></div></div></div>", 
+                "Discuss public health perspectives of PSA screening<div><br /></div><div><u>Pros</u><div><ol type=\"1\" start=\"1\"><li>...</li><li>...</li><li>...&nbsp;</li></ol></div><div><div><u>Cons</u></div></div><div><div><ol type=\"1\" start=\"1\"><li>...</li><li>A/E of unnecessary treatment = erectile dysfunction, urinary incontinence</li><li>{{c6::By itself, PSA has too low PPV-&nbsp;false +ves:&nbsp;BPH, Prostatitis, 24 hours post ejaculation, &lt;7d post urinary catheterisation, TURP}}</li></ol></div></div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Discuss public health perspectives of PSA screening<div><br /></div><div><u>Pros</u><div><ol type=\"1\" start=\"1\"><li>{{c21::Detect prostate cancer early (usually is asymptomatic)&nbsp;}}</li><li>{{c21::Men diagnosed with early PCa live longer c.f. more advanced ca&nbsp;}}</li><li>{{c21::PCa which has spread outside of prostate is generally incurable}}&nbsp;</li></ol></div><div><div><u>Cons</u></div></div><div><div><ol type=\"1\" start=\"1\"><li>{{c21::5% of men &gt; 80years have prostate cancer but only &lt;4% will die for it}}</li><li>{{c21::A/E of unnecessary treatment = erectile dysfunction, urinary incontinence}}</li><li>{{c21::By itself, PSA has too low PPV-&nbsp;false +ves:&nbsp;BPH, Prostatitis, 24 hours post ejaculation, &lt;7d post urinary catheterisation, TURP}}</li></ol></div></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "sa.X^C.ku&", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Relations of prostate<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>Base <i>superiorly</i> abuts [[oc1::bladder]]</li><li>Apex <i>inferiorly</i> abuts [[oc2::fascia of external sphincter urethrae]]</li><li>Hugged <i>inferolaterally</i> by [[oc3::levator ani]]</li><li>[[oc4::Rectum]] lies <i>posteriorly</i></li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "Relations of prostate<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>Base <i>superiorly</i> abuts {{c1::bladder}}</li><li>Apex <i>inferiorly</i> abuts ...</li><li>Hugged <i>inferolaterally</i> by ...</li><li>... lies <i>posteriorly</i></li></ol></div></div>", 
+                "Relations of prostate<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>Base <i>superiorly</i> abuts bladder</li><li>Apex <i>inferiorly</i> abuts {{c2::fascia of external sphincter urethrae}}</li><li>Hugged <i>inferolaterally</i> by ...</li><li>... lies <i>posteriorly</i></li></ol></div></div>", 
+                "Relations of prostate<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>Base <i>superiorly</i> abuts ...</li><li>Apex <i>inferiorly</i> abuts fascia of external sphincter urethrae</li><li>Hugged <i>inferolaterally</i> by {{c3::levator ani}}</li><li>... lies <i>posteriorly</i></li></ol></div></div>", 
+                "Relations of prostate<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>Base <i>superiorly</i> abuts ...</li><li>Apex <i>inferiorly</i> abuts ...</li><li>Hugged <i>inferolaterally</i> by levator ani</li><li>{{c4::Rectum}} lies <i>posteriorly</i></li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Relations of prostate<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>Base <i>superiorly</i> abuts {{c21::bladder}}</li><li>Apex <i>inferiorly</i> abuts {{c21::fascia of external sphincter urethrae}}</li><li>Hugged <i>inferolaterally</i> by {{c21::levator ani}}</li><li>{{c21::Rectum}} lies <i>posteriorly</i></li></ol></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "e+fmo!N,Xk", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the prostate<div><br /></div><div><div>A [[oc1::glandular]] organ with a [[oc2::fibromuscular]] capsule shaped like an [[oc3::inverted pyramid]] which surrounds the [[oc4::neck of the urinary bladder]]. It contains the [[oc5::two ejaculatory ducts]] which both join with the [[oc6::proximal urethra]] to form the [[oc7::prostatic urethra]].</div></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "Describe the prostate<div><br /></div><div><div>A {{c1::glandular}} organ with a ... capsule shaped like an ... which surrounds the .... It contains the ... which both join with the ... to form the ....</div></div>", 
+                "Describe the prostate<div><br /></div><div><div>A glandular organ with a {{c2::fibromuscular}} capsule shaped like an ... which surrounds the .... It contains the ... which both join with the ... to form the ....</div></div>", 
+                "Describe the prostate<div><br /></div><div><div>A ... organ with a fibromuscular capsule shaped like an {{c3::inverted pyramid}} which surrounds the .... It contains the ... which both join with the ... to form the ....</div></div>", 
+                "Describe the prostate<div><br /></div><div><div>A ... organ with a ... capsule shaped like an inverted pyramid which surrounds the {{c4::neck of the urinary bladder}}. It contains the ... which both join with the ... to form the ....</div></div>", 
+                "Describe the prostate<div><br /></div><div><div>A ... organ with a ... capsule shaped like an ... which surrounds the neck of the urinary bladder. It contains the {{c5::two ejaculatory ducts}} which both join with the ... to form the ....</div></div>", 
+                "Describe the prostate<div><br /></div><div><div>A ... organ with a ... capsule shaped like an ... which surrounds the .... It contains the two ejaculatory ducts which both join with the {{c6::proximal urethra}} to form the ....</div></div>", 
+                "Describe the prostate<div><br /></div><div><div>A ... organ with a ... capsule shaped like an ... which surrounds the .... It contains the ... which both join with the proximal urethra to form the {{c7::prostatic urethra}}.</div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Describe the prostate<div><br /></div><div><div>A {{c21::glandular}} organ with a {{c21::fibromuscular}} capsule shaped like an {{c21::inverted pyramid}} which surrounds the {{c21::neck of the urinary bladder}}. It contains the {{c21::two ejaculatory ducts}} which both join with the {{c21::proximal urethra}} to form the {{c21::prostatic urethra}}.</div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "yiIPD^N#2E", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "7a5c00eb50a54ed5b6538d3ad2f97923-oa-1", 
+                "", 
+                "<img src=\"tmpqQN7cL.png\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-1-A.svg\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "g^BE+ml#`#", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "7a5c00eb50a54ed5b6538d3ad2f97923-oa-2", 
+                "", 
+                "<img src=\"tmpqQN7cL.png\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-2-A.svg\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "K6y*D:N&iU", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "7a5c00eb50a54ed5b6538d3ad2f97923-oa-3", 
+                "", 
+                "<img src=\"tmpqQN7cL.png\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-3-A.svg\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "LY:`@hZP&F", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "7a5c00eb50a54ed5b6538d3ad2f97923-oa-4", 
+                "", 
+                "<img src=\"tmpqQN7cL.png\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-4-A.svg\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "P~:#W-9,AW", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "7a5c00eb50a54ed5b6538d3ad2f97923-oa-5", 
+                "", 
+                "<img src=\"tmpqQN7cL.png\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-5-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-5-A.svg\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "KJvRW-wI[F", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "7a5c00eb50a54ed5b6538d3ad2f97923-oa-6", 
+                "", 
+                "<img src=\"tmpqQN7cL.png\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-6-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-6-A.svg\" />", 
+                "<img src=\"7a5c00eb50a54ed5b6538d3ad2f97923-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "v!!Xm)2<T9", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ad09d0d34d2d464dbf64527c53e0058b-oa-1", 
+                "", 
+                "<img src=\"tmpLS5C_u.png\" />", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-1-A.svg\" />", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "ug}kOs.u&R", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ad09d0d34d2d464dbf64527c53e0058b-oa-2", 
+                "", 
+                "<img src=\"tmpLS5C_u.png\" />", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-2-A.svg\" />", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "OpxRtKlsy+", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ad09d0d34d2d464dbf64527c53e0058b-oa-3", 
+                "", 
+                "<img src=\"tmpLS5C_u.png\" />", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-3-A.svg\" />", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "g.VUJX.i:M", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ad09d0d34d2d464dbf64527c53e0058b-oa-4", 
+                "", 
+                "<img src=\"tmpLS5C_u.png\" />", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-4-A.svg\" />", 
+                "<img src=\"ad09d0d34d2d464dbf64527c53e0058b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "f15!/A&J:t", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "02ec0421dd3c4d5c963b8f320b19967a-oa-1", 
+                "", 
+                "<img src=\"tmpYAdUX8.png\" />", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-1-A.svg\" />", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "tpT<3m.U7R", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "02ec0421dd3c4d5c963b8f320b19967a-oa-2", 
+                "", 
+                "<img src=\"tmpYAdUX8.png\" />", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-2-A.svg\" />", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Ix)ecE.r&R", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "02ec0421dd3c4d5c963b8f320b19967a-oa-3", 
+                "", 
+                "<img src=\"tmpYAdUX8.png\" />", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-3-A.svg\" />", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "uOMC!2%)I5", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "02ec0421dd3c4d5c963b8f320b19967a-oa-4", 
+                "", 
+                "<img src=\"tmpYAdUX8.png\" />", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-4-A.svg\" />", 
+                "<img src=\"02ec0421dd3c4d5c963b8f320b19967a-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "b$_.hF(wB&", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Blood supply of prostate?", 
+                "inferior vesical a. (branch of internal iliac)"
+            ], 
+            "flags": 0, 
+            "guid": "c*}Q5^s|l>", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Nerve supply to prostate?", 
+                "<ul style=\"margin-left: 20px; \"><li>Parasympathetic = pelvic splanchnic (S2-S4)</li><li>Sympathetic = inferior hypogastric plexus</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "w||vV5dTxB", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "DRE clinical exam of prostate findings if Ca vs BPH?", 
+                "<ul style=\"margin-left: 20px; \"><li>Ca = rock/stony hard</li><li>BPH = enlarged</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "gXxfux+Oi7", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Surgical treatment of PCa?", 
+                "<ol type=\"1\" start=\"1\"><li>TURP</li><li>Radical prostatectomy</li></ol>"
+            ], 
+            "flags": 0, 
+            "guid": "lNA<9;2nPW", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-1", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-1-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": ",1S5W#8T{", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-2", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-2-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "mEGCWz$h?l", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-3", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-3-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "iPvJn6Fz::", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-4", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-4-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "cw#~pI{e<!", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-5", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-5-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-5-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "LPw9y-c^v%", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-6", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-6-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-6-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Q%U[Eq6:0V", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-7", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-7-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-7-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "jf$P&Ke[*v", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-8", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-8-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-8-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "qe8.zM0,tN", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-9", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-9-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-9-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "d_P7%O4|$j", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-10", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-10-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-10-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "*<f${~/n4", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-11", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-11-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-11-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "EMsnEjNW#R", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c83fc304c11f412abfb7a595aa3f498e-oa-12", 
+                "", 
+                "<img src=\"tmpnDFoAn.png\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-12-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-12-A.svg\" />", 
+                "<img src=\"c83fc304c11f412abfb7a595aa3f498e-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "mx4ZZ->e?F", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is BPH?", 
+                "Prostate&nbsp;gland enlargement by nodules arising from the transitional zone"
+            ], 
+            "flags": 0, 
+            "guid": "AH)fFI~($q", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Where do most cases of PCa arise from?", 
+                "<b>Peripheral part of the prostate</b> (70% of the prostate), particularly in the <b>posterior region</b>, facilitating palpation during rectal examination"
+            ], 
+            "flags": 0, 
+            "guid": "kVbgyY$ZE4", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the [[oc1::urethral sphincter]], and above it is the [[oc2::vesical sphincter]]. When the [[oc3::vesical sphincter]] is encroached upon, leads to leakage of urine into the [[oc4::prostatic urethra]] and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged [[oc5::median lobe]] can also compress the [[oc6::urethral orifice]] in the bladder and act like a [[oc7::flap valve]] every time the pressure (to pee) rises, leading to [[oc8::difficulty starting a stream]]</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the [[oc9::prostatic urethra]] is elongated, compressed and distorted &nbsp;by the [[oc10::expanding medial and lateral lobes]]</div></div></div>", 
+                "<div><br /></div>", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the {{c1::urethral sphincter}}, and above it is the .... When the ... is encroached upon, leads to leakage of urine into the ... and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged ... can also compress the ... in the bladder and act like a ... every time the pressure (to pee) rises, leading to ...</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the ... is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the urethral sphincter, and above it is the {{c2::vesical sphincter}}. When the ... is encroached upon, leads to leakage of urine into the ... and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged ... can also compress the ... in the bladder and act like a ... every time the pressure (to pee) rises, leading to ...</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the ... is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the ..., and above it is the vesical sphincter. When the {{c3::vesical sphincter}} is encroached upon, leads to leakage of urine into the ... and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged ... can also compress the ... in the bladder and act like a ... every time the pressure (to pee) rises, leading to ...</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the ... is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the ..., and above it is the .... When the vesical sphincter is encroached upon, leads to leakage of urine into the {{c4::prostatic urethra}} and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged ... can also compress the ... in the bladder and act like a ... every time the pressure (to pee) rises, leading to ...</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the ... is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the ..., and above it is the .... When the ... is encroached upon, leads to leakage of urine into the prostatic urethra and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged {{c5::median lobe}} can also compress the ... in the bladder and act like a ... every time the pressure (to pee) rises, leading to ...</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the ... is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the ..., and above it is the .... When the ... is encroached upon, leads to leakage of urine into the ... and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged median lobe can also compress the {{c6::urethral orifice}} in the bladder and act like a ... every time the pressure (to pee) rises, leading to ...</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the ... is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the ..., and above it is the .... When the ... is encroached upon, leads to leakage of urine into the ... and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged ... can also compress the urethral orifice in the bladder and act like a {{c7::flap valve}} every time the pressure (to pee) rises, leading to ...</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the ... is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the ..., and above it is the .... When the ... is encroached upon, leads to leakage of urine into the ... and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged ... can also compress the ... in the bladder and act like a flap valve every time the pressure (to pee) rises, leading to {{c8::difficulty starting a stream}}</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the ... is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the ..., and above it is the .... When the ... is encroached upon, leads to leakage of urine into the ... and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged ... can also compress the ... in the bladder and act like a ... every time the pressure (to pee) rises, leading to difficulty starting a stream</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the {{c9::prostatic urethra}} is elongated, compressed and distorted &nbsp;by the ...</div></div></div>", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the ..., and above it is the .... When the ... is encroached upon, leads to leakage of urine into the ... and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged ... can also compress the ... in the bladder and act like a ... every time the pressure (to pee) rises, leading to ...</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the prostatic urethra is elongated, compressed and distorted &nbsp;by the {{c10::expanding medial and lateral lobes}}</div></div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Signs and symptoms of BPH?<div><br /></div><div>(mostly from obstruction)<div><div><u>Urgency</u></div><div>Below the prostate is the {{c21::urethral sphincter}}, and above it is the {{c21::vesical sphincter}}. When the {{c21::vesical sphincter}} is encroached upon, leads to leakage of urine into the {{c21::prostatic urethra}} and an intense desire to micturate</div><div><br /></div><div><u>Hesitancy</u></div><div>Enlarged {{c21::median lobe}} can also compress the {{c21::urethral orifice}} in the bladder and act like a {{c21::flap valve}} every time the pressure (to pee) rises, leading to {{c21::difficulty starting a stream}}</div><div><br /></div><div><u>Poor stream</u></div><div>Once stream starts, poor stream &nbsp;because the {{c21::prostatic urethra}} is elongated, compressed and distorted &nbsp;by the {{c21::expanding medial and lateral lobes}}</div></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "uD`.jM,`Ou", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Complications of BPH?<div><br /></div><div><div><u>Recurrent cystitis</u></div><div>[[oc1::Median lobe]] &nbsp;which expanded upwards can create a bump/elevation in the [[oc2::bladder trigone]] and this is called the [[oc3::prostatic uvula]]- can cause stagnant urine [[oc4::posterior]] to this leading to [[oc5::recurrent cystitis]]</div></div>", 
+                "<div><u><br /></u></div>", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "Complications of BPH?<div><br /></div><div><div><u>Recurrent cystitis</u></div><div>{{c1::Median lobe}} &nbsp;which expanded upwards can create a bump/elevation in the ... and this is called the ...- can cause stagnant urine ... to this leading to ...</div></div>", 
+                "Complications of BPH?<div><br /></div><div><div><u>Recurrent cystitis</u></div><div>Median lobe &nbsp;which expanded upwards can create a bump/elevation in the {{c2::bladder trigone}} and this is called the ...- can cause stagnant urine ... to this leading to ...</div></div>", 
+                "Complications of BPH?<div><br /></div><div><div><u>Recurrent cystitis</u></div><div>... &nbsp;which expanded upwards can create a bump/elevation in the bladder trigone and this is called the {{c3::prostatic uvula}}- can cause stagnant urine ... to this leading to ...</div></div>", 
+                "Complications of BPH?<div><br /></div><div><div><u>Recurrent cystitis</u></div><div>... &nbsp;which expanded upwards can create a bump/elevation in the ... and this is called the prostatic uvula- can cause stagnant urine {{c4::posterior}} to this leading to ...</div></div>", 
+                "Complications of BPH?<div><br /></div><div><div><u>Recurrent cystitis</u></div><div>... &nbsp;which expanded upwards can create a bump/elevation in the ... and this is called the ...- can cause stagnant urine posterior to this leading to {{c5::recurrent cystitis}}</div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Complications of BPH?<div><br /></div><div><div><u>Recurrent cystitis</u></div><div>{{c21::Median lobe}} &nbsp;which expanded upwards can create a bump/elevation in the {{c21::bladder trigone}} and this is called the {{c21::prostatic uvula}}- can cause stagnant urine {{c21::posterior}} to this leading to {{c21::recurrent cystitis}}</div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "P7!U6DAK}z", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How does PCa spread directly?", 
+                "Local invasion into:<div><div><ol type=\"1\" start=\"1\"><li>Seminal Vesicles (nearly always)&nbsp;</li><li>Bladder&nbsp;</li><li>Rectum (unusual)</li></ol></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "Cugg>&7hL[", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How does PCa spread haematogenously?<div><br /></div><div><div>[[oc1::Prostatic venous plexus]] ([[oc2::Batson's plexus]]) is a venous plexus that is [[oc3::THIN walled]] and [[oc4::VALVELESS]] and communicates with the [[oc5::vesical veins]] and, importantly, the [[oc6::spinal venous plexus]].&nbsp;</div><div><br /></div><div>It is supposed to drain into the [[oc7::internal iliacs]] ultimately. However, because it is valveless, during &nbsp;[[oc8::coughing or straining]], there can be [[oc9::RETROGRADE flow]] from the [[oc10::Batson's plexus]] to the [[oc11::spinal venous plexus]], and cancer cells can float up this &nbsp;[[oc12::valveless venous system]] all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the [[oc13::lower veterbral column]] and &nbsp;[[oc14::pelvic bones]] in prostate cancer</div><div><br /></div><div>No cough means [[oc15::IVC]] drains to [[oc16::lung]] (lung mets, liver mets)&nbsp;</div></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>{{c1::Prostatic venous plexus}} (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>Prostatic venous plexus ({{c2::Batson's plexus}}) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (Batson's plexus) is a venous plexus that is {{c3::THIN walled}} and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is THIN walled and {{c4::VALVELESS}} and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and VALVELESS and communicates with the {{c5::vesical veins}} and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the vesical veins and, importantly, the {{c6::spinal venous plexus}}.&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the spinal venous plexus.&nbsp;</div><div><br /></div><div>It is supposed to drain into the {{c7::internal iliacs}} ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the internal iliacs ultimately. However, because it is valveless, during &nbsp;{{c8::coughing or straining}}, there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;coughing or straining, there can be {{c9::RETROGRADE flow}} from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be RETROGRADE flow from the {{c10::Batson's plexus}} to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the Batson's plexus to the {{c11::spinal venous plexus}}, and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the spinal venous plexus, and cancer cells can float up this &nbsp;{{c12::valveless venous system}} all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;valveless venous system all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the {{c13::lower veterbral column}} and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the lower veterbral column and &nbsp;{{c14::pelvic bones}} in prostate cancer</div><div><br /></div><div>No cough means ... drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;pelvic bones in prostate cancer</div><div><br /></div><div>No cough means {{c15::IVC}} drains to ... (lung mets, liver mets)&nbsp;</div></div>", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>... (...) is a venous plexus that is ... and ... and communicates with the ... and, importantly, the ....&nbsp;</div><div><br /></div><div>It is supposed to drain into the ... ultimately. However, because it is valveless, during &nbsp;..., there can be ... from the ... to the ..., and cancer cells can float up this &nbsp;... all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the ... and &nbsp;... in prostate cancer</div><div><br /></div><div>No cough means IVC drains to {{c16::lung}} (lung mets, liver mets)&nbsp;</div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "How does PCa spread haematogenously?<div><br /></div><div><div>{{c21::Prostatic venous plexus}} ({{c21::Batson's plexus}}) is a venous plexus that is {{c21::THIN walled}} and {{c21::VALVELESS}} and communicates with the {{c21::vesical veins}} and, importantly, the {{c21::spinal venous plexus}}.&nbsp;</div><div><br /></div><div>It is supposed to drain into the {{c21::internal iliacs}} ultimately. However, because it is valveless, during &nbsp;{{c21::coughing or straining}}, there can be {{c21::RETROGRADE flow}} from the {{c21::Batson's plexus}} to the {{c21::spinal venous plexus}}, and cancer cells can float up this &nbsp;{{c21::valveless venous system}} all the way up to the skull.&nbsp;</div><div><br /></div><div>This explains the &nbsp;frequent occurrence of skeletal mets in the {{c21::lower veterbral column}} and &nbsp;{{c21::pelvic bones}} in prostate cancer</div><div><br /></div><div>No cough means {{c21::IVC}} drains to {{c21::lung}} (lung mets, liver mets)&nbsp;</div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "Mj/AEjlk5:", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How does PCa spread lymphatically?", 
+                "<div>Internal iliac --&gt; common iliac --&gt; para-aortic lumbar nodes&nbsp;</div>"
+            ], 
+            "flags": 0, 
+            "guid": "mT4?l:>g^b", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-1", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-1-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "s1+#AcnX`A", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-2", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-2-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "N2(Wm33:*P", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-3", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-3-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "M)UFRZ!$=b", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-4", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-4-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "IFej(`f+$!", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-5", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-5-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-5-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "q5;Sb5p4Q4", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-6", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-6-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-6-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "klozOxS-3+", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-7", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-7-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-7-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Jh!M/?o2#y", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-8", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-8-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-8-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "f.[vDSGtm?", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-9", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-9-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-9-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "JB*?#nck_]", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-10", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-10-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-10-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "BY7XU]yj70", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-11", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-11-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-11-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "GkTk[1Fv?l", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9bb412689a134f32933ea71a789c39cf-oa-12", 
+                "", 
+                "<img src=\"tmp2ytuxP.png\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-12-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-12-A.svg\" />", 
+                "<img src=\"9bb412689a134f32933ea71a789c39cf-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Js#),)(=c~", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the [[oc1::aggressiveness]] of PCa&nbsp;</li><li>Ranges from [[oc2::1-5]] and describes how much the cancer from a biopsy looks like healthy ([[oc3::lower score]])/abnormal ([[oc4::higher score]]) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different [[oc5::grades]], two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the [[oc6::largest area of the tumor]] and a secondary grade is given to describe the cells of [[oc7::the next largest area]]. &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>", 
+                "<div><div><br /></div></div>", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the {{c1::aggressiveness}} of PCa&nbsp;</li><li>Ranges from ... and describes how much the cancer from a biopsy looks like healthy (...)/abnormal (...) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different ..., two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the ... and a secondary grade is given to describe the cells of .... &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>", 
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the aggressiveness of PCa&nbsp;</li><li>Ranges from {{c2::1-5}} and describes how much the cancer from a biopsy looks like healthy (...)/abnormal (...) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different ..., two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the ... and a secondary grade is given to describe the cells of .... &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>", 
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the ... of PCa&nbsp;</li><li>Ranges from 1-5 and describes how much the cancer from a biopsy looks like healthy ({{c3::lower score}})/abnormal (...) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different ..., two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the ... and a secondary grade is given to describe the cells of .... &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>", 
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the ... of PCa&nbsp;</li><li>Ranges from ... and describes how much the cancer from a biopsy looks like healthy (lower score)/abnormal ({{c4::higher score}}) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different ..., two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the ... and a secondary grade is given to describe the cells of .... &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>", 
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the ... of PCa&nbsp;</li><li>Ranges from ... and describes how much the cancer from a biopsy looks like healthy (...)/abnormal (higher score) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different {{c5::grades}}, two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the ... and a secondary grade is given to describe the cells of .... &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>", 
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the ... of PCa&nbsp;</li><li>Ranges from ... and describes how much the cancer from a biopsy looks like healthy (...)/abnormal (...) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different grades, two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the {{c6::largest area of the tumor}} and a secondary grade is given to describe the cells of .... &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>", 
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the ... of PCa&nbsp;</li><li>Ranges from ... and describes how much the cancer from a biopsy looks like healthy (...)/abnormal (...) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different ..., two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the largest area of the tumor and a secondary grade is given to describe the cells of {{c7::the next largest area}}. &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "What is the Gleason Score?<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Grading system used to determine the {{c21::aggressiveness}} of PCa&nbsp;</li><li>Ranges from {{c21::1-5}} and describes how much the cancer from a biopsy looks like healthy ({{c21::lower score}})/abnormal ({{c21::higher score}}) tissue</li><li>Since prostate tumors are often made up of cancerous cells that have different {{c21::grades}}, two grades are assigned for each patient. &nbsp;</li><li>A primary grade is given to describe the cells that make up the {{c21::largest area of the tumor}} and a secondary grade is given to describe the cells of {{c21::the next largest area}}. &nbsp;</li><li>For instance, if the Gleason Score is written as 3+4=7, it means most of the tumor is grade 3 and the next largest section of the tumor is grade 4, together they make up the total Gleason Score. &nbsp;</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "O|OIrTF%G!", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4740d913cfa140c3a4207d3c151f2a7b-oa-1", 
+                "", 
+                "<img src=\"tmpZHmUBT.png\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-1-A.svg\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "e3]xBdrS.@", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4740d913cfa140c3a4207d3c151f2a7b-oa-2", 
+                "", 
+                "<img src=\"tmpZHmUBT.png\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-2-A.svg\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "yf?(3vVkzZ", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4740d913cfa140c3a4207d3c151f2a7b-oa-3", 
+                "", 
+                "<img src=\"tmpZHmUBT.png\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-3-A.svg\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "C5xLuCfMyt", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4740d913cfa140c3a4207d3c151f2a7b-oa-4", 
+                "", 
+                "<img src=\"tmpZHmUBT.png\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-4-A.svg\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "o,F~2jD|UG", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4740d913cfa140c3a4207d3c151f2a7b-oa-5", 
+                "", 
+                "<img src=\"tmpZHmUBT.png\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-5-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-5-A.svg\" />", 
+                "<img src=\"4740d913cfa140c3a4207d3c151f2a7b-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "y%kn_-]px=", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4ca0f2879c1741d4907301a746fdcaa6-oa-1", 
+                "", 
+                "<img src=\"tmpkwNqOz.png\" />", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-1-A.svg\" />", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "faK(tE0p,%", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4ca0f2879c1741d4907301a746fdcaa6-oa-2", 
+                "", 
+                "<img src=\"tmpkwNqOz.png\" />", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-2-A.svg\" />", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "N:3vv:i6Yo", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4ca0f2879c1741d4907301a746fdcaa6-oa-3", 
+                "", 
+                "<img src=\"tmpkwNqOz.png\" />", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-3-A.svg\" />", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "HY8*b}^F:2", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4ca0f2879c1741d4907301a746fdcaa6-oa-4", 
+                "", 
+                "<img src=\"tmpkwNqOz.png\" />", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-4-A.svg\" />", 
+                "<img src=\"4ca0f2879c1741d4907301a746fdcaa6-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Nc2GD&*O[F", 
+            "note_model_uuid": "046d1c78-618b-11e8-835e-784f43a01554", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How would you treat Stage I &amp; II PCa?", 
+                "<div><ul style=\"margin-left: 20px; \"><li>If Gleason score 2-5 (out of 10) = watch and wait<br />- Monitor with PSA levels</li><li>If gleason score greater --&gt; radical prostactectomy</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "HcI^s-KOAV", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How would you treat Stage III PCa?", 
+                "<div>EBRT (external beam) + androgen deprivation therapy or radical prostatectomy</div>"
+            ], 
+            "flags": 0, 
+            "guid": "PUA`BmY309", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How would you treat Stage IV PCa?", 
+                "<div><ul style=\"margin-left: 20px; \"><li>Androgen deprivation therapy</li><li>Palliative care</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "A~u:n;aLeT", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the risk factors for ischaemic stroke? (CVD factors + AS)", 
+                "<div><u>Non-modifiable</u></div><div><ul style=\"margin-left: 20px; \"><li>Age&nbsp;</li><li>Feale gender&nbsp;</li><li>FH</li><li>Past TIA or MI</li><li>Thrombophilia (Anti-thrombin 3 deficiency)&nbsp;</li><li>Pregnancy, cancer and other hypercoagulable states&nbsp;</li></ul></div><div><br /></div><div><u>Modifiable&nbsp;</u></div><div><ul style=\"margin-left: 20px; \"><li>AF&nbsp;</li><li>Smoking&nbsp;</li><li>DM&nbsp;</li><li>CKD</li><li>Obesity&nbsp;</li><li>Hypercholesterolaemia&nbsp;</li></ul></div><div><br /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "c<],<?8!W$", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the risk factors for haemorrhagic stroke? (HTN + AS)", 
+                "<div><u>Non-modifiable&nbsp;</u></div><div><ul style=\"margin-left: 20px; \"><li>Age</li><li>Male gender</li><li>FH</li><li>CT disease e.g. Ehler Danlos, vasculitis&nbsp;</li></ul></div><div><br /></div><div><u>Modifiable</u></div><div><ul style=\"margin-left: 20px; \"><li>HTN&nbsp;</li><li>Anticoagulant Rx</li></ul></div><div>+ risk factors for ischaemic stroke, as it can contribute to AS</div>"
+            ], 
+            "flags": 0, 
+            "guid": "faUg]6p)jj", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "AnatQ3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are some physical examination findings you may find with people with cardiovascular risk factors?", 
+                "<div><ul style=\"margin-left: 20px; \"><li>General inspection: obesity, male, age, marfan’s</li><li>Hands: nicotine staining, clubbing (cyanotic heart disease), xanthomma</li><li>Pulse: irregularly irregular</li><li>BP: hypertensive</li><li>Face: xanthelesma, diabetic retinopathy</li><li>Chest: sternotomy scar, lateral displaced apex, thrills, murmurs</li><li>Carotids: bruits&nbsp;</li><li>Abdomen: AAA&nbsp;</li><li>Legs: skin changes, ulcers, pulses absent, PVD</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "tBN,s7sDWy", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": []
         }
     ]
 }

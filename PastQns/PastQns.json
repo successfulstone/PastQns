@@ -9517,6 +9517,444 @@
             "guid": "tBN,s7sDWy", 
             "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
             "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>35yo woman presented to ED unwell with fever following a recent dental procedure.&nbsp;</div><div>Exam: unwell and splinter haemorrhages in nail beds.&nbsp;</div><div><br /></div><div>What is your provisional dx?</div>", 
+                "<div><ul style=\"margin-left: 20px; \"><li>Infective Endocarditis&nbsp;</li><li>Fever + new murmur = IE until proven otherwise&nbsp;</li><li>Commonest causes: IVDU, valve surgery, iatrogenic infection e.g. dental work, chronic rheumatic heart disease</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "jME!^6qqxq", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>35yo woman presented to ED unwell with fever following a recent dental procedure.&nbsp;</div><div>Exam: unwell and splinter haemorrhages in nail beds.&nbsp;</div><div><br /></div><div>What are your differential diagnoses?</div>", 
+                "<div><ul style=\"margin-left: 20px; \"><li>Libman Sach’s (non-infective endocarditis) from SLE</li><li>Infection – Sepsis, rheumatic fever, dental abscess, lung abscess&nbsp;</li><li>Pyrexia of unknown origin --&gt; infections, CTD, malignancy</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "A|K]FTYder", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What investigations are appropriate for infective endocarditis?", 
+                "<div><u>Bedside</u></div><div><ul style=\"margin-left: 20px; \"><li>ECG: can have conduction problems --&gt; heart block e.g. prolonged PR&nbsp;</li><li>Urinalysis and sputum (screen for other source of sepsis)</li></ul></div><div><br /></div><div><u>Laboratory</u></div><div><ul style=\"margin-left: 20px; \"><li>FBC: leucocytosis and neutrophilia, normocytic anaemia, thrombocytopaenia (causes splinter haemorrhage)</li><li>UECs: renal infarction, abscess or GN (IG and complement deposition)</li><li>Blood Cultures: +ve in 2/3 sets&nbsp;</li><li>ESR: inflammation vs bleeding disorder&nbsp;</li></ul></div><div><u>Imaging</u></div><div><ul style=\"margin-left: 20px; \"><li>Echocardiogram: valvular vegetations&nbsp;</li><li>TOE: more sensitive in dx of IE than TTE</li><li>CXR: cardiomegaly</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "cou+,Cp^@#", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken [[oc1::before antibiotics are given]]. If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>[[oc2::3 blood cultures]] should be taken within a [[oc3::24 hour]] period ideally about [[oc4::1hr apart]] (for IE)</li><li>Each time, about [[oc5::10mL]] is put in an aerobic tube and [[oc6::~10mL in an anaerobic tube]]&nbsp;</li><li>Take from [[oc7::peripheral rather than central or femoral sites]] to [[oc8::reduce false +ves]]&nbsp;</li><li>Use [[oc9::strict sterile technique]] to avoid contaminating results with [[oc10::skin flora&nbsp;]]</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>[[oc11::5cm area]] disinfected with [[oc12::70% alcohol]] in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the [[oc13::blood culture cap]] with 70% alcohol&nbsp;</li><li>[[oc14::Pyridoxal]] needs to be added to the blood culture media to grow [[oc15::some streptococci&nbsp;]]</li><li>If [[oc16::2 blood cultures]] are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: [[oc17::Antibiotics]], [[oc18::3 cultures]], [[oc19::sterile technique]], [[oc20::2/3 for positive]]&nbsp;</li></ul></div></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken {{c1::before antibiotics are given}}. If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken before antibiotics are given. If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>{{c2::3 blood cultures}} should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>3 blood cultures should be taken within a {{c3::24 hour}} period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a 24 hour period ideally about {{c4::1hr apart}} (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about 1hr apart (for IE)</li><li>Each time, about {{c5::10mL}} is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about 10mL is put in an aerobic tube and {{c6::~10mL in an anaerobic tube}}&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ~10mL in an anaerobic tube&nbsp;</li><li>Take from {{c7::peripheral rather than central or femoral sites}} to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from peripheral rather than central or femoral sites to {{c8::reduce false +ves}}&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to reduce false +ves&nbsp;</li><li>Use {{c9::strict sterile technique}} to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use strict sterile technique to avoid contaminating results with {{c10::skin flora&nbsp;}}</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with skin flora&nbsp;</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>{{c11::5cm area}} disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>5cm area disinfected with {{c12::70% alcohol}} in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with 70% alcohol in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the {{c13::blood culture cap}} with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the blood culture cap with 70% alcohol&nbsp;</li><li>{{c14::Pyridoxal}} needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>Pyridoxal needs to be added to the blood culture media to grow {{c15::some streptococci&nbsp;}}</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow some streptococci&nbsp;</li><li>If {{c16::2 blood cultures}} are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If 2 blood cultures are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: {{c17::Antibiotics}}, ..., ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: Antibiotics, {{c18::3 cultures}}, ..., ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., 3 cultures, {{c19::sterile technique}}, ...&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken .... If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>... should be taken within a ... period ideally about ... (for IE)</li><li>Each time, about ... is put in an aerobic tube and ...&nbsp;</li><li>Take from ... to ...&nbsp;</li><li>Use ... to avoid contaminating results with ...</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>... disinfected with ... in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the ... with 70% alcohol&nbsp;</li><li>... needs to be added to the blood culture media to grow ...</li><li>If ... are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: ..., ..., sterile technique, {{c20::2/3 for positive}}&nbsp;</li></ul></div></div>", 
+                "How is a blood culture taken?<div><br /></div><div><div><ul style=\"margin-left: 20px; \"><li>Blood cultures are taken {{c21::before antibiotics are given}}. If empirical antibiotics must be given emergently then take blood cultures as soon as possible afterwards.&nbsp;</li><li>{{c21::3 blood cultures}} should be taken within a {{c21::24 hour}} period ideally about {{c21::1hr apart}} (for IE)</li><li>Each time, about {{c21::10mL}} is put in an aerobic tube and {{c21::~10mL in an anaerobic tube}}&nbsp;</li><li>Take from {{c21::peripheral rather than central or femoral sites}} to {{c21::reduce false +ves}}&nbsp;</li><li>Use {{c21::strict sterile technique}} to avoid contaminating results with {{c21::skin flora&nbsp;}}</li></ul><div><u>Sterile Technique</u></div><ul style=\"margin-left: 20px; \"><li>{{c21::5cm area}} disinfected with {{c21::70% alcohol}} in concentrically enlarging circles around site&nbsp;</li><li>Can also sterilise the {{c21::blood culture cap}} with 70% alcohol&nbsp;</li><li>{{c21::Pyridoxal}} needs to be added to the blood culture media to grow {{c21::some streptococci&nbsp;}}</li><li>If {{c21::2 blood cultures}} are +ve for the same micro-organism then it is very likely there is a bacteraemia caused by that organism&nbsp;</li><li>Summary: {{c21::Antibiotics}}, {{c21::3 cultures}}, {{c21::sterile technique}}, {{c21::2/3 for positive}}&nbsp;</li></ul></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "Oz@%doWfjW", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the most common streptococcus species causative of IE?", 
+                "<ul style=\"margin-left: 20px; \"><li>Viridans group (S. Sanguis, oralis, mitis, mutans)<br />- commensal flora of mouth and GIT</li><li></li><li>Gram +ve cocci, catalase negative,&nbsp;Alpha haemolytic (green)&nbsp;</li><li>May cause bacteraemia following dental procedures&nbsp;</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "p{<xXo?Q8,", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the most common causative organisms of IE related to IVDU?", 
+                "Staph aureus, MRSA"
+            ], 
+            "flags": 0, 
+            "guid": "i]Fy^yo!RZ", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the most common causative organisms of IE on native valve?", 
+                "Strep viridans (sanguinis, oralis, anginosus)"
+            ], 
+            "flags": 0, 
+            "guid": "YI!#ksJ:g", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the most common causative organisms of IE on prosthetic valves?", 
+                "<ul style=\"margin-left: 20px; \"><li>Staph aureus</li><li>Staph epidermidis</li><li>Strep gallolyticus</li><li>Gram -ve HACEK (Hemophilus species, Aggregatibacter actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae)</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "EWg`uAaeli", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the most common causative organisms of IE related to pts with UC/bowel cancer?", 
+                "Strep bovis"
+            ], 
+            "flags": 0, 
+            "guid": "Kw]Ub5_8+o", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How do you diagnose IE with Duke's criteria?", 
+                "<ul style=\"margin-left: 20px; \"><li>2 major criteria OR</li><li>1 major and 3 minor criteria OR</li><li>5 minor criteria fulfilled</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "ejC)*0Od7^", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;[[oc1::Positive blood culture]] for infective endocarditis (IE):&nbsp;<br />- [[oc2::Typical micro-organism for IE from 2 separate blood cultures]]<br />- [[oc3::Persistently positive]] blood cultures</li><li>&nbsp;[[oc4::Evidence of endocardial involvement:]]<br />- [[oc5::Oscillating intracardiac mass]] on [[oc6::valve/supporting structures, or in the path of regurgitant jet]] in the absence of an alternative anatomical explanation<br />- [[oc7::Abscess]]<br />- New [[oc8::partial dehiscence of prosthetic valve]] or new [[oc9::valvular regurgitation]].</li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;{{c1::Positive blood culture}} for infective endocarditis (IE):&nbsp;<br />- ...<br />- ... blood cultures</li><li>&nbsp;...<br />- ... on ... in the absence of an alternative anatomical explanation<br />- ...<br />- New ... or new ....</li></ol></div></div>", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;Positive blood culture for infective endocarditis (IE):&nbsp;<br />- {{c2::Typical micro-organism for IE from 2 separate blood cultures}}<br />- ... blood cultures</li><li>&nbsp;...<br />- ... on ... in the absence of an alternative anatomical explanation<br />- ...<br />- New ... or new ....</li></ol></div></div>", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... for infective endocarditis (IE):&nbsp;<br />- Typical micro-organism for IE from 2 separate blood cultures<br />- {{c3::Persistently positive}} blood cultures</li><li>&nbsp;...<br />- ... on ... in the absence of an alternative anatomical explanation<br />- ...<br />- New ... or new ....</li></ol></div></div>", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... for infective endocarditis (IE):&nbsp;<br />- ...<br />- Persistently positive blood cultures</li><li>&nbsp;{{c4::Evidence of endocardial involvement:}}<br />- ... on ... in the absence of an alternative anatomical explanation<br />- ...<br />- New ... or new ....</li></ol></div></div>", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... for infective endocarditis (IE):&nbsp;<br />- ...<br />- ... blood cultures</li><li>&nbsp;Evidence of endocardial involvement:<br />- {{c5::Oscillating intracardiac mass}} on ... in the absence of an alternative anatomical explanation<br />- ...<br />- New ... or new ....</li></ol></div></div>", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... for infective endocarditis (IE):&nbsp;<br />- ...<br />- ... blood cultures</li><li>&nbsp;...<br />- Oscillating intracardiac mass on {{c6::valve/supporting structures, or in the path of regurgitant jet}} in the absence of an alternative anatomical explanation<br />- ...<br />- New ... or new ....</li></ol></div></div>", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... for infective endocarditis (IE):&nbsp;<br />- ...<br />- ... blood cultures</li><li>&nbsp;...<br />- ... on valve/supporting structures, or in the path of regurgitant jet in the absence of an alternative anatomical explanation<br />- {{c7::Abscess}}<br />- New ... or new ....</li></ol></div></div>", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... for infective endocarditis (IE):&nbsp;<br />- ...<br />- ... blood cultures</li><li>&nbsp;...<br />- ... on ... in the absence of an alternative anatomical explanation<br />- Abscess<br />- New {{c8::partial dehiscence of prosthetic valve}} or new ....</li></ol></div></div>", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... for infective endocarditis (IE):&nbsp;<br />- ...<br />- ... blood cultures</li><li>&nbsp;...<br />- ... on ... in the absence of an alternative anatomical explanation<br />- ...<br />- New partial dehiscence of prosthetic valve or new {{c9::valvular regurgitation}}.</li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "What are the major criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;{{c21::Positive blood culture}} for infective endocarditis (IE):&nbsp;<br />- {{c21::Typical micro-organism for IE from 2 separate blood cultures}}<br />- {{c21::Persistently positive}} blood cultures</li><li>&nbsp;{{c21::Evidence of endocardial involvement:}}<br />- {{c21::Oscillating intracardiac mass}} on {{c21::valve/supporting structures, or in the path of regurgitant jet}} in the absence of an alternative anatomical explanation<br />- {{c21::Abscess}}<br />- New {{c21::partial dehiscence of prosthetic valve}} or new {{c21::valvular regurgitation}}.</li></ol></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "p*aWu):g66", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;[[oc1::Predisposing heart condition]] or [[oc2::IVDU]]</li><li>&nbsp;Fever over [[oc3::38°C]]&nbsp;</li><li>&nbsp;[[oc4::Vascular phenomenon]] such as [[oc5::major arterial emboli]], [[oc6::septic pulmonary infarcts]], [[oc7::mycotic aneurysm]], [[oc8::intracranial haemorrhage]], [[oc9::conjunctival haemorrhage]], [[oc10::Janeway lesions]]</li><li>&nbsp;[[oc11::Immunological phenomenon]]:<br />- [[oc12::Glomerulonephritis]]<br />- [[oc13::Osler nodes]]<br />- [[oc14::Roth spots]]<br />- [[oc15::Rheumatoid factor]]</li><li>&nbsp;[[oc16::Microbiological evidence]]:&nbsp;[[oc17::Positive blood cultures]] not meeting major criteria</li><li>&nbsp;[[oc18::Echocardiogram]]:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;{{c1::Predisposing heart condition}} or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;Predisposing heart condition or {{c2::IVDU}}</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or IVDU</li><li>&nbsp;Fever over {{c3::38°C}}&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over 38°C&nbsp;</li><li>&nbsp;{{c4::Vascular phenomenon}} such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;Vascular phenomenon such as {{c5::major arterial emboli}}, ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as major arterial emboli, {{c6::septic pulmonary infarcts}}, ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., septic pulmonary infarcts, {{c7::mycotic aneurysm}}, ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., mycotic aneurysm, {{c8::intracranial haemorrhage}}, ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., intracranial haemorrhage, {{c9::conjunctival haemorrhage}}, ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., conjunctival haemorrhage, {{c10::Janeway lesions}}</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., Janeway lesions</li><li>&nbsp;{{c11::Immunological phenomenon}}:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;Immunological phenomenon:<br />- {{c12::Glomerulonephritis}}<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- Glomerulonephritis<br />- {{c13::Osler nodes}}<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- Osler nodes<br />- {{c14::Roth spots}}<br />- ...</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- Roth spots<br />- {{c15::Rheumatoid factor}}</li><li>&nbsp;...:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- Rheumatoid factor</li><li>&nbsp;{{c16::Microbiological evidence}}:&nbsp;... not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;Microbiological evidence:&nbsp;{{c17::Positive blood cultures}} not meeting major criteria</li><li>&nbsp;...:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;... or ...</li><li>&nbsp;Fever over ...&nbsp;</li><li>&nbsp;... such as ..., ..., ..., ..., ..., ...</li><li>&nbsp;...:<br />- ...<br />- ...<br />- ...<br />- ...</li><li>&nbsp;...:&nbsp;Positive blood cultures not meeting major criteria</li><li>&nbsp;{{c18::Echocardiogram}}:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>", 
+                "", 
+                "", 
+                "What are the minor criteria in Duke's criteria?<div><div><ol type=\"1\" start=\"1\"><li>&nbsp;{{c21::Predisposing heart condition}} or {{c21::IVDU}}</li><li>&nbsp;Fever over {{c21::38°C}}&nbsp;</li><li>&nbsp;{{c21::Vascular phenomenon}} such as {{c21::major arterial emboli}}, {{c21::septic pulmonary infarcts}}, {{c21::mycotic aneurysm}}, {{c21::intracranial haemorrhage}}, {{c21::conjunctival haemorrhage}}, {{c21::Janeway lesions}}</li><li>&nbsp;{{c21::Immunological phenomenon}}:<br />- {{c21::Glomerulonephritis}}<br />- {{c21::Osler nodes}}<br />- {{c21::Roth spots}}<br />- {{c21::Rheumatoid factor}}</li><li>&nbsp;{{c21::Microbiological evidence}}:&nbsp;{{c21::Positive blood cultures}} not meeting major criteria</li><li>&nbsp;{{c21::Echocardiogram}}:&nbsp;Consistent with IE but not meeting major criterion.</li></ol></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "bKKo9UHNcz", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What must be done for patients with suspected IE before commencing therapy?", 
+                "At least 3 blood cultures, no more than one from each venepuncture"
+            ], 
+            "flags": 0, 
+            "guid": "oHyW:3R>>*", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the empirical therapy for native valve IE?<div><br /></div><div><ol type=\"1\" start=\"1\"><li>[[oc1::Gentamicin IV 4-6mg/kg, once daily]]</li><li>[[oc2::Benzylpenicillin 1.8 g (child: 50 mg/kg up to 1.8 g) IV, 4-hourly]]</li><li>[[oc3::Flucloxacillin 2 g (child: 50 mg/kg up to 2 g) IV, 4-hourly.]]</li></ol></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "What is the empirical therapy for native valve IE?<div><br /></div><div><ol type=\"1\" start=\"1\"><li>{{c1::Gentamicin IV 4-6mg/kg, once daily}}</li><li>...</li><li>...</li></ol></div>", 
+                "What is the empirical therapy for native valve IE?<div><br /></div><div><ol type=\"1\" start=\"1\"><li>Gentamicin IV 4-6mg/kg, once daily</li><li>{{c2::Benzylpenicillin 1.8 g (child: 50 mg/kg up to 1.8 g) IV, 4-hourly}}</li><li>...</li></ol></div>", 
+                "What is the empirical therapy for native valve IE?<div><br /></div><div><ol type=\"1\" start=\"1\"><li>...</li><li>Benzylpenicillin 1.8 g (child: 50 mg/kg up to 1.8 g) IV, 4-hourly</li><li>{{c3::Flucloxacillin 2 g (child: 50 mg/kg up to 2 g) IV, 4-hourly.}}</li></ol></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "What is the empirical therapy for native valve IE?<div><br /></div><div><ol type=\"1\" start=\"1\"><li>{{c21::Gentamicin IV 4-6mg/kg, once daily}}</li><li>{{c21::Benzylpenicillin 1.8 g (child: 50 mg/kg up to 1.8 g) IV, 4-hourly}}</li><li>{{c21::Flucloxacillin 2 g (child: 50 mg/kg up to 2 g) IV, 4-hourly.}}</li></ol></div>"
+            ], 
+            "flags": 0, 
+            "guid": "D[DOMk.^MG", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How do you treat MRSA IE of native valve?", 
+                "Same as empirical treatment of IE native valve but replacing benzylpenicillin with vancomycin&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Dz3#4(!ALk", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the empirical treatment for IE of prosthetic valves?<div><div><ol type=\"1\" start=\"1\"><li>[[oc1::Gentamicin IV, once daily]]</li><li>[[oc2::Flucloxacillin 2 g (child: 50 mg/kg up to 2 g) IV, 4-hourly]]</li><li>[[oc3::Vancomycin IV]]</li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "What is the empirical treatment for IE of prosthetic valves?<div><div><ol type=\"1\" start=\"1\"><li>{{c1::Gentamicin IV, once daily}}</li><li>...</li><li>...</li></ol></div></div>", 
+                "What is the empirical treatment for IE of prosthetic valves?<div><div><ol type=\"1\" start=\"1\"><li>Gentamicin IV, once daily</li><li>{{c2::Flucloxacillin 2 g (child: 50 mg/kg up to 2 g) IV, 4-hourly}}</li><li>...</li></ol></div></div>", 
+                "What is the empirical treatment for IE of prosthetic valves?<div><div><ol type=\"1\" start=\"1\"><li>...</li><li>Flucloxacillin 2 g (child: 50 mg/kg up to 2 g) IV, 4-hourly</li><li>{{c3::Vancomycin IV}}</li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "What is the empirical treatment for IE of prosthetic valves?<div><div><ol type=\"1\" start=\"1\"><li>{{c21::Gentamicin IV, once daily}}</li><li>{{c21::Flucloxacillin 2 g (child: 50 mg/kg up to 2 g) IV, 4-hourly}}</li><li>{{c21::Vancomycin IV}}</li></ol></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "ecLR]0=19y", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How would you modify empirical treatment of IE for prosthetic valves in penicillin hypersensitivity?", 
+                "<div>Replace flucloxacillin with&nbsp;</div><div><ol type=\"1\" start=\"1\"><li>cefalotin 2 g (child: 50 mg/kg up to 2 g) IV, 4-hourly OR</li><li>cephazolin 2 g (child: 50 mg/kg up to 2 g) IV, 8-hourly</li></ol></div>"
+            ], 
+            "flags": 0, 
+            "guid": "rcR+6cHb-W", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the mortality rate of S. aureus IE?", 
+                "40-50%"
+            ], 
+            "flags": 0, 
+            "guid": "I_Jx/S(/u7", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>[[oc1::Bacteremia]] (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>[[oc2::Adherence of the organisms]]</li><li>[[oc3::Eventual invasion and destruction]] of the [[oc4::valvular leaflets]] (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>[[oc5::Platelet and fibrin adhesion]] on damaged area --&gt; [[oc6::vegetation]]</li><li>[[oc7::Neutrophils]] --&gt; [[oc8::proteolysis of vegetation]] --&gt; [[oc9::emboli]]</li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>{{c1::Bacteremia}} (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>...</li><li>... of the ... (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>... on damaged area --&gt; ...</li><li>... --&gt; ... --&gt; ...</li></ol></div></div>", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>Bacteremia (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>{{c2::Adherence of the organisms}}</li><li>... of the ... (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>... on damaged area --&gt; ...</li><li>... --&gt; ... --&gt; ...</li></ol></div></div>", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>... (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>Adherence of the organisms</li><li>{{c3::Eventual invasion and destruction}} of the ... (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>... on damaged area --&gt; ...</li><li>... --&gt; ... --&gt; ...</li></ol></div></div>", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>... (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>...</li><li>Eventual invasion and destruction of the {{c4::valvular leaflets}} (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>... on damaged area --&gt; ...</li><li>... --&gt; ... --&gt; ...</li></ol></div></div>", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>... (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>...</li><li>... of the valvular leaflets (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>{{c5::Platelet and fibrin adhesion}} on damaged area --&gt; ...</li><li>... --&gt; ... --&gt; ...</li></ol></div></div>", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>... (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>...</li><li>... of the ... (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>Platelet and fibrin adhesion on damaged area --&gt; {{c6::vegetation}}</li><li>... --&gt; ... --&gt; ...</li></ol></div></div>", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>... (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>...</li><li>... of the ... (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>... on damaged area --&gt; vegetation</li><li>{{c7::Neutrophils}} --&gt; ... --&gt; ...</li></ol></div></div>", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>... (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>...</li><li>... of the ... (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>... on damaged area --&gt; ...</li><li>Neutrophils --&gt; {{c8::proteolysis of vegetation}} --&gt; ...</li></ol></div></div>", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>... (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>...</li><li>... of the ... (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>... on damaged area --&gt; ...</li><li>... --&gt; proteolysis of vegetation --&gt; {{c9::emboli}}</li></ol></div></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "What is the pathophysiology of IE?<div><br /></div><div><div><ol type=\"1\" start=\"1\"><li>{{c21::Bacteremia}} (nosocomial or spontaneous) that delivers the organisms to the surface of the valve</li><li>{{c21::Adherence of the organisms}}</li><li>{{c21::Eventual invasion and destruction}} of the {{c21::valvular leaflets}} (staph is the only one that can damage healthy valves, other organisms affect valves that are already damaged/diseased/prosthetic)</li><li>{{c21::Platelet and fibrin adhesion}} on damaged area --&gt; {{c21::vegetation}}</li><li>{{c21::Neutrophils}} --&gt; {{c21::proteolysis of vegetation}} --&gt; {{c21::emboli}}</li></ol></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "^<P+/1/qn", 
+            "note_model_uuid": "416fc301-5c2c-11e8-9ae9-5ce0c5bacc04", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are some complications of IE?", 
+                "<ul style=\"margin-left: 20px; \"><li></li><li>Emboli</li><li>Valvular failure (regurgitation and stenosis)</li><li>Conduction defects (damage near AV node or bundle of HiS)</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "yzG@e*=%!Q", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are some risk factors of IE?", 
+                "<div><ol type=\"1\" start=\"1\"><li>chronic rheumatic heart disease (&lt;10% of cases in industrialised countries)</li><li>prosthetic valves/other valvular heart disease (e.g. age related)</li><li>intracardiac devices</li><li>frequent use of IV access e.g. haemodialysis</li><li>IVDU</li></ol></div>"
+            ], 
+            "flags": 0, 
+            "guid": "s+L.x7GG+p", 
+            "note_model_uuid": "1b65a503-5770-11e8-bbfe-30e37ab3e4ac", 
+            "tags": [
+                "DiagnosticQ6"
+            ]
         }
     ]
 }

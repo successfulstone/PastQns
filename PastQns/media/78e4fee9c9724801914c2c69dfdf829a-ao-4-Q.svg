@@ -1,0 +1,14 @@
+<svg height="427" width="646" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="78e4fee9c9724801914c2c69dfdf829a-ao-1" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.5996 0 0 0.5996 95.2953 123.524)" x="201.74775" xml:space="preserve" y="298.22522">/SLE</text>
+  <rect fill="#FFEBA2" height="21.62162" id="78e4fee9c9724801914c2c69dfdf829a-ao-2" stroke="#2D2D2D" width="125.22523" x="10.75676" y="114.44144"/>
+  <rect fill="#FFEBA2" height="16.21622" id="78e4fee9c9724801914c2c69dfdf829a-ao-3" stroke="#2D2D2D" width="196.3964" x="367.51352" y="118.94594"/>
+  <rect class="qshape" fill="#FF7E7E" height="15.31532" id="78e4fee9c9724801914c2c69dfdf829a-ao-4" stroke="#2D2D2D" width="227.92793" x="11.65766" y="289.21621"/>
+  <rect fill="#FFEBA2" height="16.21622" id="78e4fee9c9724801914c2c69dfdf829a-ao-5" stroke="#2D2D2D" width="265.76577" x="365.71172" y="288.31531"/>
+ </g>
+</svg>

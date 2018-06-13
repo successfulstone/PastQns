@@ -1,0 +1,21 @@
+<svg height="369" width="674" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="15.32258" id="a25224e0422449b9a1a22c517a222455-ao-1" stroke="#2D2D2D" width="64.51613" x="29.22579" y="164.06452"/>
+  <rect fill="#FFEBA2" height="16.93548" id="a25224e0422449b9a1a22c517a222455-ao-2" stroke="#2D2D2D" width="81.45161" x="28.41934" y="214.06452"/>
+  <rect fill="#FFEBA2" height="17.74194" id="a25224e0422449b9a1a22c517a222455-ao-3" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="68.54839" x="161.48386" y="294.70968"/>
+  <rect fill="#FFEBA2" height="15.32258" id="a25224e0422449b9a1a22c517a222455-ao-4" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="62.09677" x="521.96773" y="169.70968"/>
+  <rect fill="#FFEBA2" height="18.54839" id="a25224e0422449b9a1a22c517a222455-ao-5" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="52.41936" x="456.64515" y="70.51613"/>
+  <rect fill="#FFEBA2" height="17.74194" id="a25224e0422449b9a1a22c517a222455-ao-6" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="67.74194" x="421.16128" y="41.48387"/>
+  <rect fill="#FFEBA2" height="20.96774" id="a25224e0422449b9a1a22c517a222455-ao-7" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="104.03226" x="67.12902" y="90.67742"/>
+  <rect fill="#FFEBA2" height="16.12903" id="a25224e0422449b9a1a22c517a222455-ao-8" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="113.70968" x="509.06451" y="122.12903"/>
+  <path d="m377.61288,305.19354l32.06454,-1.16129l1.61288,16.12903l72.58066,-0.80646l0.80646,22.58066c0,0 -102.22583,-5.29031 -103.83875,-5.29031c-1.61292,0 -3.2258,-31.45163 -3.2258,-31.45163z" fill="#FFEBA2" id="a25224e0422449b9a1a22c517a222455-ao-9" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+  
+  <text fill="#ff0000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="a25224e0422449b9a1a22c517a222455-ao-11" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.91129 0 0 0.91129 17.5645 20.3145)" x="247.77418" xml:space="preserve" y="222.93549">Left Lobe</text>
+  <text fill="#ff0000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="a25224e0422449b9a1a22c517a222455-ao-12" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.849645 0 0 0.849645 98.9612 26.4215)" x="389.70967" xml:space="preserve" y="158.41936">Right Lobe</text>
+ </g>
+</svg>

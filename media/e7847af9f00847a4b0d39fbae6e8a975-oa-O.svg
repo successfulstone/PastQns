@@ -1,0 +1,63 @@
+<svg height="509" width="1250" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="35" id="e7847af9f00847a4b0d39fbae6e8a975-oa-1" stroke="#2D2D2D" width="44" x="598" y="26">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="30" id="e7847af9f00847a4b0d39fbae6e8a975-oa-2" stroke="#2D2D2D" width="54" x="609" y="91">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="28" id="e7847af9f00847a4b0d39fbae6e8a975-oa-3" stroke="#2D2D2D" width="161" x="955" y="40">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="31" id="e7847af9f00847a4b0d39fbae6e8a975-oa-4" stroke="#2D2D2D" width="158" x="955" y="87">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="33" id="e7847af9f00847a4b0d39fbae6e8a975-oa-5" stroke="#2D2D2D" width="126" x="955" y="146">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="36" id="e7847af9f00847a4b0d39fbae6e8a975-oa-6" stroke="#2D2D2D" width="120" x="144" y="143">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="27" id="e7847af9f00847a4b0d39fbae6e8a975-oa-7" stroke="#2D2D2D" width="148" x="75" y="218">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="55" id="e7847af9f00847a4b0d39fbae6e8a975-oa-8" stroke="#2D2D2D" width="156" x="63" y="289">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="23" id="e7847af9f00847a4b0d39fbae6e8a975-oa-9" stroke="#2D2D2D" width="160" x="55" y="354">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="25" id="e7847af9f00847a4b0d39fbae6e8a975-oa-10" stroke="#2D2D2D" width="130" x="89" y="415">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="35" id="e7847af9f00847a4b0d39fbae6e8a975-oa-11" stroke="#2D2D2D" width="139" x="561" y="267">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="36" id="e7847af9f00847a4b0d39fbae6e8a975-oa-12" stroke="#2D2D2D" width="239" x="512" y="321">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="31" id="e7847af9f00847a4b0d39fbae6e8a975-oa-13" stroke="#2D2D2D" width="67" x="304" y="469">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="34" id="e7847af9f00847a4b0d39fbae6e8a975-oa-14" stroke="#2D2D2D" width="91" x="798" y="465">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="28" id="e7847af9f00847a4b0d39fbae6e8a975-oa-15" stroke="#2D2D2D" width="144" x="1015" y="421">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="27" id="e7847af9f00847a4b0d39fbae6e8a975-oa-16" stroke="#2D2D2D" width="170" x="1015" y="373">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="50" id="e7847af9f00847a4b0d39fbae6e8a975-oa-17" stroke="#2D2D2D" width="133" x="1015" y="316">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="25" id="e7847af9f00847a4b0d39fbae6e8a975-oa-18" stroke="#2D2D2D" width="136" x="1016" y="264">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+ </g>
+</svg>

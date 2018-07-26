@@ -1,0 +1,43 @@
+<svg height="927.9999999999999" width="1500" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="25" id="3df09e0c7a414540b19b8e71c2d451e9-oa-1" stroke="#2D2D2D" width="43.75" x="1231.25001" y="218.87503"/>
+  <rect fill="#FFEBA2" height="28.125" id="3df09e0c7a414540b19b8e71c2d451e9-oa-2" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="104.6875" x="1231.25001" y="250.12503"/>
+  <rect fill="#FFEBA2" height="25" id="3df09e0c7a414540b19b8e71c2d451e9-oa-3" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="209.37501" x="1225.00001" y="282.93754"/>
+  <rect fill="#FFEBA2" height="32.8125" id="3df09e0c7a414540b19b8e71c2d451e9-oa-4" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="54.6875" x="1225.00001" y="312.62504"/>
+  <rect fill="#FFEBA2" height="64.0625" id="3df09e0c7a414540b19b8e71c2d451e9-oa-5" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="104.6875" x="70.31248" y="170.43753">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="50" id="3df09e0c7a414540b19b8e71c2d451e9-oa-6" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="67.1875" x="64.06248" y="409.50004">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="84.375" id="3df09e0c7a414540b19b8e71c2d451e9-oa-7" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="334.37501" x="340.62499" y="481.37504">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="34.375" id="3df09e0c7a414540b19b8e71c2d451e9-oa-8" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="129.6875" x="537.49999" y="281.37503">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="43.75" id="3df09e0c7a414540b19b8e71c2d451e9-oa-9" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="240.62501" x="959.37501" y="637.62505">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="56.25" id="3df09e0c7a414540b19b8e71c2d451e9-oa-10" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="278.12501" x="490.62499" y="625.12504">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="57.8125" id="3df09e0c7a414540b19b8e71c2d451e9-oa-11" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="264.06251" x="612.5" y="709.50005">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="62.5" id="3df09e0c7a414540b19b8e71c2d451e9-oa-12" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="184.37501" x="284.37499" y="806.37505">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="40.625" id="3df09e0c7a414540b19b8e71c2d451e9-oa-13" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="45.3125" x="468.74999" y="789.18755">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="62.5" id="3df09e0c7a414540b19b8e71c2d451e9-oa-14" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="212.50001" x="504.68749" y="403.25004">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+ </g>
+</svg>
